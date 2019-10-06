@@ -6,7 +6,7 @@ in the U.S. between 2014-2017, used in the "Optimal Hierarchical Clustering on a
 Kahvecioglu G. and Morton D. 
 
 Contents of directory: 
-- Conference_labels.csv: 
+- conference_labels.csv: FBS teams and their associated conferences/subconferences 
 - FBS_schedules.csv: 
 
 Some notes about the data: 
