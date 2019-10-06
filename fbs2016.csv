@@ -1,0 +1,1540 @@
+Team ID,Team,Opp ID,Opp,Date,Location
+721,Air Force,2,Abilene Christian,9/3/2016,H
+721,Air Force,254,Georgia St.,9/10/2016,H
+721,Air Force,731,Utah St.,9/24/2016,A
+721,Air Force,726,Navy,10/1/2016,H
+721,Air Force,811,Wyoming,10/8/2016,A
+721,Air Force,473,New Mexico,10/15/2016,N
+721,Air Force,277,Hawaii,10/22/2016,H
+721,Air Force,96,Fresno St.,10/28/2016,A
+721,Air Force,725,Army West Point,11/5/2016,A
+721,Air Force,156,Colorado St.,11/12/2016,H
+721,Air Force,630,San Jose St.,11/19/2016,A
+721,Air Force,66,Boise St.,11/25/2016,H
+5,Akron,741,VMI,9/3/2016,H
+5,Akron,796,Wisconsin,9/10/2016,A
+5,Akron,388,Marshall,9/17/2016,A
+5,Akron,27,Appalachian St.,9/24/2016,H
+5,Akron,331,Kent St.,10/1/2016,A
+5,Akron,414,Miami (OH),10/8/2016,H
+5,Akron,774,Western Mich.,10/15/2016,H
+5,Akron,47,Ball St.,10/22/2016,A
+5,Akron,86,Buffalo,10/27/2016,A
+5,Akron,709,Toledo,11/2/2016,H
+5,Akron,71,Bowling Green,11/9/2016,H
+5,Akron,519,Ohio,11/22/2016,A
+8,Alabama,657,Southern California,9/3/2016,N
+8,Alabama,772,Western Ky.,9/10/2016,H
+8,Alabama,433,Ole Miss,9/17/2016,A
+8,Alabama,331,Kent St.,9/24/2016,H
+8,Alabama,334,Kentucky,10/1/2016,H
+8,Alabama,31,Arkansas,10/8/2016,A
+8,Alabama,694,Tennessee,10/15/2016,A
+8,Alabama,697,Texas A&M,10/22/2016,H
+8,Alabama,365,LSU,11/5/2016,A
+8,Alabama,430,Mississippi St.,11/12/2016,H
+8,Alabama,693,Chattanooga,11/19/2016,H
+8,Alabama,37,Auburn,11/26/2016,H
+27,Appalachian St.,694,Tennessee,9/1/2016,A
+27,Appalachian St.,523,Old Dominion,9/10/2016,H
+27,Appalachian St.,415,Miami (FL),9/17/2016,H
+27,Appalachian St.,5,Akron,9/24/2016,A
+27,Appalachian St.,254,Georgia St.,10/1/2016,H
+27,Appalachian St.,671,UL Lafayette,10/12/2016,A
+27,Appalachian St.,295,Idaho,10/22/2016,H
+27,Appalachian St.,253,Ga. Southern,10/27/2016,A
+27,Appalachian St.,670,Texas St.,11/5/2016,H
+27,Appalachian St.,716,Troy,11/12/2016,A
+27,Appalachian St.,498,La.-Monroe,11/19/2016,H
+27,Appalachian St.,472,New Mexico St.,11/26/2016,A
+29,Arizona,77,BYU,9/3/2016,N
+29,Arizona,261,Grambling,9/10/2016,H
+29,Arizona,277,Hawaii,9/17/2016,H
+29,Arizona,756,Washington,9/24/2016,H
+29,Arizona,110,UCLA,10/1/2016,A
+29,Arizona,732,Utah,10/8/2016,A
+29,Arizona,657,Southern California,10/15/2016,H
+29,Arizona,674,Stanford,10/29/2016,H
+29,Arizona,754,Washington St.,11/5/2016,A
+29,Arizona,157,Colorado,11/12/2016,H
+29,Arizona,528,Oregon St.,11/19/2016,A
+29,Arizona,28,Arizona St.,11/25/2016,H
+28,Arizona St.,501,Northern Ariz.,9/3/2016,H
+28,Arizona St.,700,Texas Tech,9/10/2016,H
+28,Arizona St.,706,UTSA,9/16/2016,A
+28,Arizona St.,107,California,9/24/2016,H
+28,Arizona St.,657,Southern California,10/1/2016,A
+28,Arizona St.,110,UCLA,10/8/2016,H
+28,Arizona St.,157,Colorado,10/15/2016,A
+28,Arizona St.,754,Washington St.,10/22/2016,H
+28,Arizona St.,529,Oregon,10/29/2016,A
+28,Arizona St.,732,Utah,11/10/2016,H
+28,Arizona St.,756,Washington,11/19/2016,A
+28,Arizona St.,29,Arizona,11/25/2016,A
+31,Arkansas,366,Louisiana Tech,9/3/2016,H
+31,Arkansas,698,TCU,9/10/2016,A
+31,Arkansas,670,Texas St.,9/17/2016,H
+31,Arkansas,697,Texas A&M,9/24/2016,N
+31,Arkansas,17,Alcorn,10/1/2016,H
+31,Arkansas,8,Alabama,10/8/2016,H
+31,Arkansas,433,Ole Miss,10/15/2016,H
+31,Arkansas,37,Auburn,10/22/2016,A
+31,Arkansas,235,Florida,11/5/2016,H
+31,Arkansas,365,LSU,11/12/2016,H
+31,Arkansas,430,Mississippi St.,11/19/2016,A
+31,Arkansas,434,Missouri,11/25/2016,A
+30,Arkansas St.,709,Toledo,9/2/2016,H
+30,Arkansas St.,37,Auburn,9/10/2016,A
+30,Arkansas St.,731,Utah St.,9/16/2016,A
+30,Arkansas St.,1004,Central Ark.,9/24/2016,H
+30,Arkansas St.,253,Ga. Southern,10/5/2016,H
+30,Arkansas St.,646,South Ala.,10/15/2016,H
+30,Arkansas St.,498,La.-Monroe,10/29/2016,H
+30,Arkansas St.,254,Georgia St.,11/3/2016,A
+30,Arkansas St.,472,New Mexico St.,11/12/2016,H
+30,Arkansas St.,716,Troy,11/17/2016,A
+30,Arkansas St.,671,UL Lafayette,11/26/2016,A
+30,Arkansas St.,670,Texas St.,12/3/2016,A
+725,Army West Point,690,Temple,9/2/2016,A
+725,Army West Point,574,Rice,9/10/2016,H
+725,Army West Point,704,UTEP,9/17/2016,A
+725,Army West Point,86,Buffalo,9/24/2016,A
+725,Army West Point,193,Duke,10/8/2016,A
+725,Army West Point,342,Lafayette,10/15/2016,H
+725,Army West Point,497,North Texas,10/22/2016,H
+725,Army West Point,749,Wake Forest,10/29/2016,A
+725,Army West Point,721,Air Force,11/5/2016,H
+725,Army West Point,513,Notre Dame,11/12/2016,N
+725,Army West Point,446,Morgan St.,11/19/2016,H
+725,Army West Point,726,Navy,12/10/2016,N
+37,Auburn,147,Clemson,9/3/2016,H
+37,Auburn,30,Arkansas St.,9/10/2016,H
+37,Auburn,697,Texas A&M,9/17/2016,H
+37,Auburn,365,LSU,9/24/2016,H
+37,Auburn,498,La.-Monroe,10/1/2016,H
+37,Auburn,430,Mississippi St.,10/8/2016,A
+37,Auburn,31,Arkansas,10/22/2016,H
+37,Auburn,433,Ole Miss,10/29/2016,A
+37,Auburn,736,Vanderbilt,11/5/2016,H
+37,Auburn,257,Georgia,11/12/2016,A
+37,Auburn,6,Alabama A&M,11/19/2016,H
+37,Auburn,8,Alabama,11/26/2016,A
+77,BYU,29,Arizona,9/3/2016,N
+77,BYU,732,Utah,9/10/2016,A
+77,BYU,110,UCLA,9/17/2016,H
+77,BYU,768,West Virginia,9/24/2016,N
+77,BYU,709,Toledo,9/30/2016,H
+77,BYU,416,Michigan St.,10/8/2016,A
+77,BYU,430,Mississippi St.,10/14/2016,H
+77,BYU,66,Boise St.,10/20/2016,A
+77,BYU,140,Cincinnati,11/5/2016,A
+77,BYU,667,Southern Utah,11/12/2016,H
+77,BYU,400,Massachusetts,11/19/2016,H
+77,BYU,731,Utah St.,11/26/2016,H
+47,Ball St.,254,Georgia St.,9/2/2016,A
+47,Ball St.,306,Indiana,9/10/2016,A
+47,Ball St.,202,Eastern Ky.,9/17/2016,H
+47,Ball St.,229,Fla. Atlantic,9/24/2016,A
+47,Ball St.,503,Northern Ill.,10/1/2016,H
+47,Ball St.,129,Central Mich.,10/8/2016,A
+47,Ball St.,86,Buffalo,10/15/2016,A
+47,Ball St.,5,Akron,10/22/2016,H
+47,Ball St.,774,Western Mich.,11/1/2016,H
+47,Ball St.,204,Eastern Mich.,11/8/2016,H
+47,Ball St.,709,Toledo,11/16/2016,A
+47,Ball St.,414,Miami (OH),11/22/2016,A
+51,Baylor,508,Northwestern St.,9/2/2016,H
+51,Baylor,663,SMU,9/10/2016,H
+51,Baylor,574,Rice,9/16/2016,A
+51,Baylor,521,Oklahoma St.,9/24/2016,H
+51,Baylor,311,Iowa St.,10/1/2016,A
+51,Baylor,328,Kansas,10/15/2016,H
+51,Baylor,703,Texas,10/29/2016,A
+51,Baylor,698,TCU,11/5/2016,H
+51,Baylor,522,Oklahoma,11/12/2016,A
+51,Baylor,327,Kansas St.,11/19/2016,H
+51,Baylor,700,Texas Tech,11/25/2016,N
+51,Baylor,768,West Virginia,12/3/2016,A
+66,Boise St.,671,UL Lafayette,9/3/2016,A
+66,Boise St.,754,Washington St.,9/10/2016,H
+66,Boise St.,528,Oregon St.,9/24/2016,A
+66,Boise St.,731,Utah St.,10/1/2016,H
+66,Boise St.,473,New Mexico,10/7/2016,A
+66,Boise St.,156,Colorado St.,10/15/2016,H
+66,Boise St.,77,BYU,10/20/2016,H
+66,Boise St.,811,Wyoming,10/29/2016,A
+66,Boise St.,630,San Jose St.,11/4/2016,H
+66,Boise St.,277,Hawaii,11/12/2016,A
+66,Boise St.,465,UNLV,11/18/2016,H
+66,Boise St.,721,Air Force,11/25/2016,A
+67,Boston College,255,Georgia Tech,9/3/2016,N
+67,Boston College,400,Massachusetts,9/10/2016,A
+67,Boston College,742,Virginia Tech,9/17/2016,A
+67,Boston College,748,Wagner,9/24/2016,H
+67,Boston College,86,Buffalo,10/1/2016,H
+67,Boston College,147,Clemson,10/7/2016,H
+67,Boston College,688,Syracuse,10/22/2016,H
+67,Boston College,490,North Carolina St.,10/29/2016,A
+67,Boston College,367,Louisville,11/5/2016,H
+67,Boston College,234,Florida St.,11/11/2016,A
+67,Boston College,164,UConn,11/19/2016,H
+67,Boston College,749,Wake Forest,11/26/2016,A
+71,Bowling Green,518,Ohio St.,9/3/2016,A
+71,Bowling Green,494,North Dakota,9/10/2016,H
+71,Bowling Green,419,Middle Tenn.,9/17/2016,H
+71,Bowling Green,404,Memphis,9/24/2016,A
+71,Bowling Green,204,Eastern Mich.,10/1/2016,H
+71,Bowling Green,519,Ohio,10/8/2016,A
+71,Bowling Green,709,Toledo,10/15/2016,A
+71,Bowling Green,414,Miami (OH),10/22/2016,H
+71,Bowling Green,503,Northern Ill.,11/1/2016,A
+71,Bowling Green,5,Akron,11/9/2016,A
+71,Bowling Green,331,Kent St.,11/15/2016,H
+71,Bowling Green,86,Buffalo,11/25/2016,H
+86,Buffalo,14,Albany (NY),9/2/2016,H
+86,Buffalo,466,Nevada,9/17/2016,A
+86,Buffalo,725,Army West Point,9/24/2016,H
+86,Buffalo,67,Boston College,10/1/2016,A
+86,Buffalo,331,Kent St.,10/8/2016,H
+86,Buffalo,47,Ball St.,10/15/2016,H
+86,Buffalo,503,Northern Ill.,10/22/2016,A
+86,Buffalo,5,Akron,10/27/2016,H
+86,Buffalo,519,Ohio,11/3/2016,A
+86,Buffalo,414,Miami (OH),11/12/2016,H
+86,Buffalo,774,Western Mich.,11/19/2016,A
+86,Buffalo,71,Bowling Green,11/25/2016,A
+107,California,277,Hawaii,8/26/2016,N
+107,California,626,San Diego St.,9/10/2016,A
+107,California,703,Texas,9/17/2016,H
+107,California,28,Arizona St.,9/24/2016,A
+107,California,732,Utah,10/1/2016,H
+107,California,528,Oregon St.,10/8/2016,A
+107,California,529,Oregon,10/21/2016,H
+107,California,657,Southern California,10/27/2016,A
+107,California,756,Washington,11/5/2016,H
+107,California,754,Washington St.,11/12/2016,A
+107,California,674,Stanford,11/19/2016,H
+107,California,110,UCLA,11/26/2016,H
+129,Central Mich.,1320,Presbyterian,9/1/2016,H
+129,Central Mich.,521,Oklahoma St.,9/10/2016,A
+129,Central Mich.,465,UNLV,9/17/2016,H
+129,Central Mich.,746,Virginia,9/24/2016,A
+129,Central Mich.,774,Western Mich.,10/1/2016,H
+129,Central Mich.,47,Ball St.,10/8/2016,H
+129,Central Mich.,503,Northern Ill.,10/15/2016,A
+129,Central Mich.,709,Toledo,10/22/2016,A
+129,Central Mich.,331,Kent St.,10/29/2016,H
+129,Central Mich.,414,Miami (OH),11/4/2016,A
+129,Central Mich.,519,Ohio,11/15/2016,H
+129,Central Mich.,204,Eastern Mich.,11/22/2016,A
+458,Charlotte,367,Louisville,9/1/2016,A
+458,Charlotte,1068,Elon,9/10/2016,H
+458,Charlotte,204,Eastern Mich.,9/17/2016,H
+458,Charlotte,690,Temple,9/24/2016,A
+458,Charlotte,523,Old Dominion,10/1/2016,H
+458,Charlotte,229,Fla. Atlantic,10/8/2016,A
+458,Charlotte,231,FIU,10/15/2016,H
+458,Charlotte,388,Marshall,10/22/2016,A
+458,Charlotte,664,Southern Miss.,11/5/2016,A
+458,Charlotte,574,Rice,11/12/2016,H
+458,Charlotte,419,Middle Tenn.,11/19/2016,H
+458,Charlotte,706,UTSA,11/26/2016,A
+140,Cincinnati,695,UT Martin,9/1/2016,H
+140,Cincinnati,559,Purdue,9/10/2016,A
+140,Cincinnati,288,Houston,9/15/2016,H
+140,Cincinnati,414,Miami (OH),9/24/2016,H
+140,Cincinnati,651,South Fla.,10/1/2016,H
+140,Cincinnati,164,UConn,10/8/2016,A
+140,Cincinnati,196,East Carolina,10/22/2016,H
+140,Cincinnati,690,Temple,10/29/2016,A
+140,Cincinnati,77,BYU,11/5/2016,H
+140,Cincinnati,128,UCF,11/12/2016,A
+140,Cincinnati,404,Memphis,11/18/2016,H
+140,Cincinnati,719,Tulsa,11/25/2016,A
+147,Clemson,37,Auburn,9/3/2016,A
+147,Clemson,716,Troy,9/10/2016,H
+147,Clemson,647,South Carolina St.,9/17/2016,H
+147,Clemson,255,Georgia Tech,9/22/2016,A
+147,Clemson,367,Louisville,10/1/2016,H
+147,Clemson,67,Boston College,10/7/2016,A
+147,Clemson,490,North Carolina St.,10/15/2016,H
+147,Clemson,234,Florida St.,10/29/2016,A
+147,Clemson,688,Syracuse,11/5/2016,H
+147,Clemson,545,Pittsburgh,11/12/2016,H
+147,Clemson,749,Wake Forest,11/19/2016,A
+147,Clemson,648,South Carolina,11/26/2016,H
+157,Colorado,156,Colorado St.,9/2/2016,N
+157,Colorado,294,Idaho St.,9/10/2016,H
+157,Colorado,418,Michigan,9/17/2016,A
+157,Colorado,529,Oregon,9/24/2016,A
+157,Colorado,528,Oregon St.,10/1/2016,H
+157,Colorado,657,Southern California,10/8/2016,A
+157,Colorado,28,Arizona St.,10/15/2016,H
+157,Colorado,674,Stanford,10/22/2016,A
+157,Colorado,110,UCLA,11/3/2016,H
+157,Colorado,29,Arizona,11/12/2016,A
+157,Colorado,754,Washington St.,11/19/2016,H
+157,Colorado,732,Utah,11/26/2016,H
+156,Colorado St.,157,Colorado,9/2/2016,N
+156,Colorado St.,706,UTSA,9/10/2016,H
+156,Colorado St.,502,Northern Colo.,9/17/2016,H
+156,Colorado St.,428,Minnesota,9/24/2016,A
+156,Colorado St.,811,Wyoming,10/1/2016,H
+156,Colorado St.,731,Utah St.,10/8/2016,H
+156,Colorado St.,66,Boise St.,10/15/2016,A
+156,Colorado St.,465,UNLV,10/22/2016,A
+156,Colorado St.,96,Fresno St.,11/5/2016,H
+156,Colorado St.,721,Air Force,11/12/2016,A
+156,Colorado St.,473,New Mexico,11/19/2016,H
+156,Colorado St.,626,San Diego St.,11/26/2016,A
+193,Duke,489,N.C. Central,9/3/2016,H
+193,Duke,749,Wake Forest,9/10/2016,H
+193,Duke,509,Northwestern,9/17/2016,A
+193,Duke,513,Notre Dame,9/24/2016,A
+193,Duke,746,Virginia,10/1/2016,H
+193,Duke,725,Army West Point,10/8/2016,H
+193,Duke,367,Louisville,10/14/2016,A
+193,Duke,255,Georgia Tech,10/29/2016,A
+193,Duke,742,Virginia Tech,11/5/2016,H
+193,Duke,457,North Carolina,11/10/2016,H
+193,Duke,545,Pittsburgh,11/19/2016,A
+193,Duke,415,Miami (FL),11/26/2016,A
+196,East Carolina,769,Western Caro.,9/3/2016,H
+196,East Carolina,490,North Carolina St.,9/10/2016,H
+196,East Carolina,648,South Carolina,9/17/2016,A
+196,East Carolina,742,Virginia Tech,9/24/2016,A
+196,East Carolina,128,UCF,10/1/2016,H
+196,East Carolina,651,South Fla.,10/8/2016,A
+196,East Carolina,726,Navy,10/13/2016,H
+196,East Carolina,140,Cincinnati,10/22/2016,A
+196,East Carolina,164,UConn,10/29/2016,H
+196,East Carolina,719,Tulsa,11/5/2016,A
+196,East Carolina,663,SMU,11/12/2016,H
+196,East Carolina,690,Temple,11/26/2016,A
+204,Eastern Mich.,432,Mississippi Val.,9/2/2016,H
+204,Eastern Mich.,434,Missouri,9/10/2016,A
+204,Eastern Mich.,458,Charlotte,9/17/2016,A
+204,Eastern Mich.,811,Wyoming,9/23/2016,H
+204,Eastern Mich.,71,Bowling Green,10/1/2016,A
+204,Eastern Mich.,709,Toledo,10/8/2016,H
+204,Eastern Mich.,519,Ohio,10/15/2016,A
+204,Eastern Mich.,774,Western Mich.,10/22/2016,A
+204,Eastern Mich.,414,Miami (OH),10/29/2016,H
+204,Eastern Mich.,47,Ball St.,11/8/2016,A
+204,Eastern Mich.,503,Northern Ill.,11/16/2016,H
+204,Eastern Mich.,129,Central Mich.,11/22/2016,H
+231,FIU,306,Indiana,9/1/2016,H
+231,FIU,392,Maryland,9/9/2016,H
+231,FIU,400,Massachusetts,9/17/2016,A
+231,FIU,128,UCF,9/24/2016,H
+231,FIU,229,Fla. Atlantic,10/1/2016,H
+231,FIU,704,UTEP,10/8/2016,A
+231,FIU,458,Charlotte,10/15/2016,A
+231,FIU,366,Louisiana Tech,10/22/2016,H
+231,FIU,419,Middle Tenn.,10/29/2016,H
+231,FIU,772,Western Ky.,11/5/2016,A
+231,FIU,388,Marshall,11/19/2016,H
+231,FIU,523,Old Dominion,11/26/2016,A
+229,Fla. Atlantic,659,Southern Ill.,9/3/2016,H
+229,Fla. Atlantic,415,Miami (FL),9/10/2016,A
+229,Fla. Atlantic,327,Kansas St.,9/17/2016,A
+229,Fla. Atlantic,47,Ball St.,9/24/2016,H
+229,Fla. Atlantic,231,FIU,10/1/2016,A
+229,Fla. Atlantic,458,Charlotte,10/8/2016,H
+229,Fla. Atlantic,388,Marshall,10/15/2016,A
+229,Fla. Atlantic,772,Western Ky.,10/29/2016,H
+229,Fla. Atlantic,574,Rice,11/5/2016,A
+229,Fla. Atlantic,704,UTEP,11/12/2016,H
+229,Fla. Atlantic,523,Old Dominion,11/19/2016,H
+229,Fla. Atlantic,419,Middle Tenn.,11/26/2016,A
+235,Florida,400,Massachusetts,9/3/2016,H
+235,Florida,334,Kentucky,9/10/2016,H
+235,Florida,497,North Texas,9/17/2016,H
+235,Florida,694,Tennessee,9/24/2016,A
+235,Florida,736,Vanderbilt,10/1/2016,A
+235,Florida,365,LSU,10/8/2016,H
+235,Florida,434,Missouri,10/15/2016,H
+235,Florida,257,Georgia,10/29/2016,N
+235,Florida,31,Arkansas,11/5/2016,A
+235,Florida,648,South Carolina,11/12/2016,H
+235,Florida,1320,Presbyterian,11/19/2016,H
+235,Florida,234,Florida St.,11/26/2016,A
+234,Florida St.,433,Ole Miss,9/5/2016,N
+234,Florida St.,48,Charleston So.,9/10/2016,H
+234,Florida St.,367,Louisville,9/17/2016,A
+234,Florida St.,651,South Fla.,9/24/2016,A
+234,Florida St.,457,North Carolina,10/1/2016,H
+234,Florida St.,415,Miami (FL),10/8/2016,A
+234,Florida St.,749,Wake Forest,10/15/2016,H
+234,Florida St.,147,Clemson,10/29/2016,H
+234,Florida St.,490,North Carolina St.,11/5/2016,A
+234,Florida St.,67,Boston College,11/11/2016,H
+234,Florida St.,688,Syracuse,11/19/2016,A
+234,Florida St.,235,Florida,11/26/2016,H
+96,Fresno St.,463,Nebraska,9/3/2016,A
+96,Fresno St.,102,Sacramento St.,9/10/2016,H
+96,Fresno St.,709,Toledo,9/17/2016,A
+96,Fresno St.,719,Tulsa,9/24/2016,H
+96,Fresno St.,465,UNLV,10/1/2016,A
+96,Fresno St.,466,Nevada,10/8/2016,A
+96,Fresno St.,626,San Diego St.,10/14/2016,H
+96,Fresno St.,731,Utah St.,10/22/2016,A
+96,Fresno St.,721,Air Force,10/28/2016,H
+96,Fresno St.,156,Colorado St.,11/5/2016,A
+96,Fresno St.,277,Hawaii,11/19/2016,H
+96,Fresno St.,630,San Jose St.,11/26/2016,H
+253,Ga. Southern,632,Savannah St.,9/3/2016,H
+253,Ga. Southern,646,South Ala.,9/10/2016,A
+253,Ga. Southern,498,La.-Monroe,9/17/2016,H
+253,Ga. Southern,774,Western Mich.,9/24/2016,A
+253,Ga. Southern,30,Arkansas St.,10/5/2016,A
+253,Ga. Southern,255,Georgia Tech,10/15/2016,A
+253,Ga. Southern,472,New Mexico St.,10/22/2016,A
+253,Ga. Southern,27,Appalachian St.,10/27/2016,H
+253,Ga. Southern,433,Ole Miss,11/5/2016,A
+253,Ga. Southern,671,UL Lafayette,11/10/2016,H
+253,Ga. Southern,254,Georgia St.,11/19/2016,A
+253,Ga. Southern,716,Troy,12/3/2016,H
+257,Georgia,457,North Carolina,9/3/2016,N
+257,Georgia,483,Nicholls St.,9/10/2016,H
+257,Georgia,434,Missouri,9/17/2016,A
+257,Georgia,433,Ole Miss,9/24/2016,A
+257,Georgia,694,Tennessee,10/1/2016,H
+257,Georgia,648,South Carolina,10/8/2016,A
+257,Georgia,736,Vanderbilt,10/15/2016,H
+257,Georgia,235,Florida,10/29/2016,N
+257,Georgia,334,Kentucky,11/5/2016,A
+257,Georgia,37,Auburn,11/12/2016,H
+257,Georgia,671,UL Lafayette,11/19/2016,H
+257,Georgia,255,Georgia Tech,11/26/2016,H
+254,Georgia St.,47,Ball St.,9/2/2016,H
+254,Georgia St.,721,Air Force,9/10/2016,A
+254,Georgia St.,796,Wisconsin,9/17/2016,A
+254,Georgia St.,27,Appalachian St.,10/1/2016,A
+254,Georgia St.,670,Texas St.,10/8/2016,H
+254,Georgia St.,716,Troy,10/15/2016,A
+254,Georgia St.,695,UT Martin,10/22/2016,H
+254,Georgia St.,646,South Ala.,10/29/2016,A
+254,Georgia St.,30,Arkansas St.,11/3/2016,H
+254,Georgia St.,498,La.-Monroe,11/12/2016,H
+254,Georgia St.,253,Ga. Southern,11/19/2016,H
+254,Georgia St.,295,Idaho,12/3/2016,A
+255,Georgia Tech,67,Boston College,9/3/2016,N
+255,Georgia Tech,406,Mercer,9/10/2016,H
+255,Georgia Tech,736,Vanderbilt,9/17/2016,H
+255,Georgia Tech,147,Clemson,9/22/2016,H
+255,Georgia Tech,415,Miami (FL),10/1/2016,H
+255,Georgia Tech,545,Pittsburgh,10/8/2016,A
+255,Georgia Tech,253,Ga. Southern,10/15/2016,H
+255,Georgia Tech,193,Duke,10/29/2016,H
+255,Georgia Tech,457,North Carolina,11/5/2016,A
+255,Georgia Tech,742,Virginia Tech,11/12/2016,A
+255,Georgia Tech,746,Virginia,11/19/2016,H
+255,Georgia Tech,257,Georgia,11/26/2016,A
+277,Hawaii,107,California,8/26/2016,N
+277,Hawaii,418,Michigan,9/3/2016,A
+277,Hawaii,695,UT Martin,9/10/2016,H
+277,Hawaii,29,Arizona,9/17/2016,A
+277,Hawaii,466,Nevada,10/1/2016,H
+277,Hawaii,630,San Jose St.,10/8/2016,A
+277,Hawaii,465,UNLV,10/15/2016,H
+277,Hawaii,721,Air Force,10/22/2016,A
+277,Hawaii,473,New Mexico,10/29/2016,H
+277,Hawaii,626,San Diego St.,11/5/2016,A
+277,Hawaii,66,Boise St.,11/12/2016,H
+277,Hawaii,96,Fresno St.,11/19/2016,A
+277,Hawaii,400,Massachusetts,11/26/2016,H
+288,Houston,522,Oklahoma,9/3/2016,N
+288,Houston,346,Lamar,9/10/2016,H
+288,Houston,140,Cincinnati,9/15/2016,A
+288,Houston,670,Texas St.,9/24/2016,A
+288,Houston,164,UConn,9/29/2016,H
+288,Houston,726,Navy,10/8/2016,A
+288,Houston,719,Tulsa,10/15/2016,H
+288,Houston,663,SMU,10/22/2016,A
+288,Houston,128,UCF,10/29/2016,H
+288,Houston,718,Tulane,11/12/2016,H
+288,Houston,367,Louisville,11/17/2016,H
+288,Houston,404,Memphis,11/25/2016,A
+295,Idaho,440,Montana St.,9/1/2016,H
+295,Idaho,756,Washington,9/10/2016,A
+295,Idaho,754,Washington St.,9/17/2016,A
+295,Idaho,465,UNLV,9/24/2016,A
+295,Idaho,716,Troy,10/1/2016,H
+295,Idaho,498,La.-Monroe,10/8/2016,A
+295,Idaho,472,New Mexico St.,10/15/2016,H
+295,Idaho,27,Appalachian St.,10/22/2016,A
+295,Idaho,671,UL Lafayette,11/5/2016,A
+295,Idaho,670,Texas St.,11/12/2016,A
+295,Idaho,646,South Ala.,11/26/2016,H
+295,Idaho,254,Georgia St.,12/3/2016,H
+301,Illinois,454,Murray St.,9/3/2016,H
+301,Illinois,457,North Carolina,9/10/2016,H
+301,Illinois,774,Western Mich.,9/17/2016,H
+301,Illinois,463,Nebraska,10/1/2016,A
+301,Illinois,559,Purdue,10/8/2016,H
+301,Illinois,587,Rutgers,10/15/2016,A
+301,Illinois,418,Michigan,10/22/2016,A
+301,Illinois,428,Minnesota,10/29/2016,H
+301,Illinois,416,Michigan St.,11/5/2016,H
+301,Illinois,796,Wisconsin,11/12/2016,A
+301,Illinois,312,Iowa,11/19/2016,H
+301,Illinois,509,Northwestern,11/26/2016,A
+306,Indiana,231,FIU,9/1/2016,A
+306,Indiana,47,Ball St.,9/10/2016,H
+306,Indiana,749,Wake Forest,9/24/2016,H
+306,Indiana,416,Michigan St.,10/1/2016,H
+306,Indiana,518,Ohio St.,10/8/2016,A
+306,Indiana,463,Nebraska,10/15/2016,H
+306,Indiana,509,Northwestern,10/22/2016,A
+306,Indiana,392,Maryland,10/29/2016,H
+306,Indiana,587,Rutgers,11/5/2016,A
+306,Indiana,539,Penn St.,11/12/2016,H
+306,Indiana,418,Michigan,11/19/2016,A
+306,Indiana,559,Purdue,11/26/2016,H
+312,Iowa,414,Miami (OH),9/3/2016,H
+312,Iowa,311,Iowa St.,9/10/2016,H
+312,Iowa,493,North Dakota St.,9/17/2016,H
+312,Iowa,587,Rutgers,9/24/2016,A
+312,Iowa,509,Northwestern,10/1/2016,H
+312,Iowa,428,Minnesota,10/8/2016,A
+312,Iowa,559,Purdue,10/15/2016,A
+312,Iowa,796,Wisconsin,10/22/2016,H
+312,Iowa,539,Penn St.,11/5/2016,A
+312,Iowa,418,Michigan,11/12/2016,H
+312,Iowa,301,Illinois,11/19/2016,A
+312,Iowa,463,Nebraska,11/25/2016,H
+311,Iowa St.,504,UNI,9/3/2016,H
+311,Iowa St.,312,Iowa,9/10/2016,A
+311,Iowa St.,698,TCU,9/17/2016,A
+311,Iowa St.,630,San Jose St.,9/24/2016,H
+311,Iowa St.,51,Baylor,10/1/2016,H
+311,Iowa St.,521,Oklahoma St.,10/8/2016,A
+311,Iowa St.,703,Texas,10/15/2016,A
+311,Iowa St.,327,Kansas St.,10/29/2016,H
+311,Iowa St.,522,Oklahoma,11/3/2016,H
+311,Iowa St.,328,Kansas,11/12/2016,A
+311,Iowa St.,700,Texas Tech,11/19/2016,H
+311,Iowa St.,768,West Virginia,11/26/2016,H
+328,Kansas,572,Rhode Island,9/3/2016,H
+328,Kansas,519,Ohio,9/10/2016,H
+328,Kansas,404,Memphis,9/17/2016,A
+328,Kansas,700,Texas Tech,9/29/2016,A
+328,Kansas,698,TCU,10/8/2016,H
+328,Kansas,51,Baylor,10/15/2016,A
+328,Kansas,521,Oklahoma St.,10/22/2016,H
+328,Kansas,522,Oklahoma,10/29/2016,A
+328,Kansas,768,West Virginia,11/5/2016,A
+328,Kansas,311,Iowa St.,11/12/2016,H
+328,Kansas,703,Texas,11/19/2016,H
+328,Kansas,327,Kansas St.,11/26/2016,A
+327,Kansas St.,674,Stanford,9/2/2016,A
+327,Kansas St.,229,Fla. Atlantic,9/17/2016,H
+327,Kansas St.,669,Missouri St.,9/24/2016,H
+327,Kansas St.,768,West Virginia,10/1/2016,A
+327,Kansas St.,700,Texas Tech,10/8/2016,H
+327,Kansas St.,522,Oklahoma,10/15/2016,A
+327,Kansas St.,703,Texas,10/22/2016,H
+327,Kansas St.,311,Iowa St.,10/29/2016,A
+327,Kansas St.,521,Oklahoma St.,11/5/2016,H
+327,Kansas St.,51,Baylor,11/19/2016,A
+327,Kansas St.,328,Kansas,11/26/2016,H
+327,Kansas St.,698,TCU,12/3/2016,A
+331,Kent St.,539,Penn St.,9/3/2016,A
+331,Kent St.,488,N.C. A&T,9/10/2016,H
+331,Kent St.,439,Monmouth,9/17/2016,H
+331,Kent St.,8,Alabama,9/24/2016,A
+331,Kent St.,5,Akron,10/1/2016,H
+331,Kent St.,86,Buffalo,10/8/2016,A
+331,Kent St.,414,Miami (OH),10/15/2016,A
+331,Kent St.,519,Ohio,10/22/2016,H
+331,Kent St.,129,Central Mich.,10/29/2016,A
+331,Kent St.,774,Western Mich.,11/8/2016,H
+331,Kent St.,71,Bowling Green,11/15/2016,A
+331,Kent St.,503,Northern Ill.,11/25/2016,H
+334,Kentucky,664,Southern Miss.,9/3/2016,H
+334,Kentucky,235,Florida,9/10/2016,A
+334,Kentucky,472,New Mexico St.,9/17/2016,H
+334,Kentucky,648,South Carolina,9/24/2016,H
+334,Kentucky,8,Alabama,10/1/2016,A
+334,Kentucky,736,Vanderbilt,10/8/2016,H
+334,Kentucky,430,Mississippi St.,10/22/2016,H
+334,Kentucky,434,Missouri,10/29/2016,A
+334,Kentucky,257,Georgia,11/5/2016,H
+334,Kentucky,694,Tennessee,11/12/2016,A
+334,Kentucky,43,Austin Peay,11/19/2016,H
+334,Kentucky,367,Louisville,11/26/2016,A
+365,LSU,796,Wisconsin,9/3/2016,N
+365,LSU,315,Jacksonville St.,9/10/2016,H
+365,LSU,430,Mississippi St.,9/17/2016,H
+365,LSU,37,Auburn,9/24/2016,A
+365,LSU,434,Missouri,10/1/2016,H
+365,LSU,235,Florida,10/8/2016,A
+365,LSU,664,Southern Miss.,10/15/2016,H
+365,LSU,433,Ole Miss,10/22/2016,H
+365,LSU,8,Alabama,11/5/2016,H
+365,LSU,31,Arkansas,11/12/2016,A
+365,LSU,646,South Ala.,11/19/2016,H
+365,LSU,697,Texas A&M,11/24/2016,A
+498,La.-Monroe,665,Southern U.,9/3/2016,H
+498,La.-Monroe,522,Oklahoma,9/10/2016,A
+498,La.-Monroe,253,Ga. Southern,9/17/2016,A
+498,La.-Monroe,37,Auburn,10/1/2016,A
+498,La.-Monroe,295,Idaho,10/8/2016,H
+498,La.-Monroe,670,Texas St.,10/15/2016,H
+498,La.-Monroe,473,New Mexico,10/22/2016,A
+498,La.-Monroe,30,Arkansas St.,10/29/2016,A
+498,La.-Monroe,646,South Ala.,11/5/2016,H
+498,La.-Monroe,254,Georgia St.,11/12/2016,A
+498,La.-Monroe,27,Appalachian St.,11/19/2016,A
+498,La.-Monroe,671,UL Lafayette,12/3/2016,H
+366,Louisiana Tech,31,Arkansas,9/3/2016,A
+366,Louisiana Tech,647,South Carolina St.,9/10/2016,H
+366,Louisiana Tech,700,Texas Tech,9/17/2016,A
+366,Louisiana Tech,419,Middle Tenn.,9/24/2016,A
+366,Louisiana Tech,704,UTEP,10/1/2016,H
+366,Louisiana Tech,772,Western Ky.,10/6/2016,H
+366,Louisiana Tech,400,Massachusetts,10/15/2016,A
+366,Louisiana Tech,231,FIU,10/22/2016,A
+366,Louisiana Tech,574,Rice,10/29/2016,H
+366,Louisiana Tech,497,North Texas,11/5/2016,A
+366,Louisiana Tech,706,UTSA,11/12/2016,H
+366,Louisiana Tech,664,Southern Miss.,11/25/2016,A
+367,Louisville,458,Charlotte,9/1/2016,H
+367,Louisville,688,Syracuse,9/9/2016,A
+367,Louisville,234,Florida St.,9/17/2016,H
+367,Louisville,388,Marshall,9/24/2016,A
+367,Louisville,147,Clemson,10/1/2016,A
+367,Louisville,193,Duke,10/14/2016,H
+367,Louisville,490,North Carolina St.,10/22/2016,H
+367,Louisville,746,Virginia,10/29/2016,A
+367,Louisville,67,Boston College,11/5/2016,A
+367,Louisville,749,Wake Forest,11/12/2016,H
+367,Louisville,288,Houston,11/17/2016,A
+367,Louisville,334,Kentucky,11/26/2016,H
+388,Marshall,446,Morgan St.,9/10/2016,H
+388,Marshall,5,Akron,9/17/2016,H
+388,Marshall,367,Louisville,9/24/2016,H
+388,Marshall,545,Pittsburgh,10/1/2016,A
+388,Marshall,497,North Texas,10/8/2016,A
+388,Marshall,229,Fla. Atlantic,10/15/2016,H
+388,Marshall,458,Charlotte,10/22/2016,H
+388,Marshall,664,Southern Miss.,10/29/2016,A
+388,Marshall,523,Old Dominion,11/5/2016,A
+388,Marshall,419,Middle Tenn.,11/12/2016,H
+388,Marshall,231,FIU,11/19/2016,A
+388,Marshall,772,Western Ky.,11/26/2016,H
+392,Maryland,290,Howard,9/3/2016,H
+392,Maryland,231,FIU,9/9/2016,A
+392,Maryland,128,UCF,9/17/2016,A
+392,Maryland,559,Purdue,10/1/2016,H
+392,Maryland,539,Penn St.,10/8/2016,A
+392,Maryland,428,Minnesota,10/15/2016,H
+392,Maryland,416,Michigan St.,10/22/2016,H
+392,Maryland,306,Indiana,10/29/2016,A
+392,Maryland,418,Michigan,11/5/2016,A
+392,Maryland,518,Ohio St.,11/12/2016,H
+392,Maryland,463,Nebraska,11/19/2016,A
+392,Maryland,587,Rutgers,11/26/2016,H
+400,Massachusetts,235,Florida,9/3/2016,A
+400,Massachusetts,67,Boston College,9/10/2016,H
+400,Massachusetts,231,FIU,9/17/2016,H
+400,Massachusetts,430,Mississippi St.,9/24/2016,H
+400,Massachusetts,718,Tulane,10/1/2016,H
+400,Massachusetts,523,Old Dominion,10/8/2016,A
+400,Massachusetts,366,Louisiana Tech,10/15/2016,H
+400,Massachusetts,648,South Carolina,10/22/2016,A
+400,Massachusetts,748,Wagner,10/29/2016,H
+400,Massachusetts,716,Troy,11/5/2016,A
+400,Massachusetts,77,BYU,11/19/2016,A
+400,Massachusetts,277,Hawaii,11/26/2016,A
+404,Memphis,654,Southeast Mo. St.,9/3/2016,H
+404,Memphis,328,Kansas,9/17/2016,H
+404,Memphis,71,Bowling Green,9/24/2016,H
+404,Memphis,433,Ole Miss,10/1/2016,A
+404,Memphis,690,Temple,10/6/2016,H
+404,Memphis,718,Tulane,10/14/2016,A
+404,Memphis,726,Navy,10/22/2016,A
+404,Memphis,719,Tulsa,10/29/2016,H
+404,Memphis,663,SMU,11/5/2016,A
+404,Memphis,651,South Fla.,11/12/2016,H
+404,Memphis,140,Cincinnati,11/18/2016,A
+404,Memphis,288,Houston,11/25/2016,H
+415,Miami (FL),228,Florida A&M,9/3/2016,H
+415,Miami (FL),229,Fla. Atlantic,9/10/2016,H
+415,Miami (FL),27,Appalachian St.,9/17/2016,A
+415,Miami (FL),255,Georgia Tech,10/1/2016,A
+415,Miami (FL),234,Florida St.,10/8/2016,H
+415,Miami (FL),457,North Carolina,10/15/2016,H
+415,Miami (FL),742,Virginia Tech,10/20/2016,A
+415,Miami (FL),513,Notre Dame,10/29/2016,A
+415,Miami (FL),545,Pittsburgh,11/5/2016,H
+415,Miami (FL),746,Virginia,11/12/2016,A
+415,Miami (FL),490,North Carolina St.,11/19/2016,A
+415,Miami (FL),193,Duke,11/26/2016,H
+414,Miami (OH),312,Iowa,9/3/2016,A
+414,Miami (OH),201,Eastern Ill.,9/10/2016,H
+414,Miami (OH),772,Western Ky.,9/17/2016,H
+414,Miami (OH),140,Cincinnati,9/24/2016,A
+414,Miami (OH),519,Ohio,10/1/2016,H
+414,Miami (OH),5,Akron,10/8/2016,A
+414,Miami (OH),331,Kent St.,10/15/2016,H
+414,Miami (OH),71,Bowling Green,10/22/2016,A
+414,Miami (OH),204,Eastern Mich.,10/29/2016,A
+414,Miami (OH),129,Central Mich.,11/4/2016,H
+414,Miami (OH),86,Buffalo,11/12/2016,A
+414,Miami (OH),47,Ball St.,11/22/2016,H
+418,Michigan,277,Hawaii,9/3/2016,H
+418,Michigan,128,UCF,9/10/2016,H
+418,Michigan,157,Colorado,9/17/2016,H
+418,Michigan,539,Penn St.,9/24/2016,H
+418,Michigan,796,Wisconsin,10/1/2016,H
+418,Michigan,587,Rutgers,10/8/2016,A
+418,Michigan,301,Illinois,10/22/2016,H
+418,Michigan,416,Michigan St.,10/29/2016,A
+418,Michigan,392,Maryland,11/5/2016,H
+418,Michigan,312,Iowa,11/12/2016,A
+418,Michigan,306,Indiana,11/19/2016,H
+418,Michigan,518,Ohio St.,11/26/2016,A
+416,Michigan St.,244,Furman,9/2/2016,H
+416,Michigan St.,513,Notre Dame,9/17/2016,A
+416,Michigan St.,796,Wisconsin,9/24/2016,H
+416,Michigan St.,306,Indiana,10/1/2016,A
+416,Michigan St.,77,BYU,10/8/2016,H
+416,Michigan St.,509,Northwestern,10/15/2016,H
+416,Michigan St.,392,Maryland,10/22/2016,A
+416,Michigan St.,418,Michigan,10/29/2016,H
+416,Michigan St.,301,Illinois,11/5/2016,A
+416,Michigan St.,587,Rutgers,11/12/2016,H
+416,Michigan St.,518,Ohio St.,11/19/2016,H
+416,Michigan St.,539,Penn St.,11/26/2016,A
+419,Middle Tenn.,6,Alabama A&M,9/3/2016,H
+419,Middle Tenn.,736,Vanderbilt,9/10/2016,A
+419,Middle Tenn.,71,Bowling Green,9/17/2016,A
+419,Middle Tenn.,366,Louisiana Tech,9/24/2016,H
+419,Middle Tenn.,497,North Texas,10/1/2016,A
+419,Middle Tenn.,772,Western Ky.,10/15/2016,H
+419,Middle Tenn.,434,Missouri,10/22/2016,A
+419,Middle Tenn.,231,FIU,10/29/2016,A
+419,Middle Tenn.,706,UTSA,11/5/2016,H
+419,Middle Tenn.,388,Marshall,11/12/2016,A
+419,Middle Tenn.,458,Charlotte,11/19/2016,A
+419,Middle Tenn.,229,Fla. Atlantic,11/26/2016,H
+428,Minnesota,528,Oregon St.,9/1/2016,H
+428,Minnesota,305,Indiana St.,9/10/2016,H
+428,Minnesota,156,Colorado St.,9/24/2016,H
+428,Minnesota,539,Penn St.,10/1/2016,A
+428,Minnesota,312,Iowa,10/8/2016,H
+428,Minnesota,392,Maryland,10/15/2016,A
+428,Minnesota,587,Rutgers,10/22/2016,H
+428,Minnesota,301,Illinois,10/29/2016,A
+428,Minnesota,559,Purdue,11/5/2016,H
+428,Minnesota,463,Nebraska,11/12/2016,A
+428,Minnesota,796,Wisconsin,11/26/2016,A
+428,Minnesota,509,Northwestern,11/29/2016,H
+430,Mississippi St.,646,South Ala.,9/3/2016,H
+430,Mississippi St.,648,South Carolina,9/10/2016,H
+430,Mississippi St.,365,LSU,9/17/2016,A
+430,Mississippi St.,400,Massachusetts,9/24/2016,A
+430,Mississippi St.,37,Auburn,10/8/2016,H
+430,Mississippi St.,77,BYU,10/14/2016,A
+430,Mississippi St.,334,Kentucky,10/22/2016,A
+430,Mississippi St.,625,Samford,10/29/2016,H
+430,Mississippi St.,697,Texas A&M,11/5/2016,H
+430,Mississippi St.,8,Alabama,11/12/2016,A
+430,Mississippi St.,31,Arkansas,11/19/2016,H
+430,Mississippi St.,433,Ole Miss,11/26/2016,A
+434,Missouri,768,West Virginia,9/3/2016,A
+434,Missouri,204,Eastern Mich.,9/10/2016,H
+434,Missouri,257,Georgia,9/17/2016,H
+434,Missouri,178,Delaware St.,9/24/2016,H
+434,Missouri,365,LSU,10/1/2016,A
+434,Missouri,235,Florida,10/15/2016,A
+434,Missouri,419,Middle Tenn.,10/22/2016,H
+434,Missouri,334,Kentucky,10/29/2016,H
+434,Missouri,648,South Carolina,11/5/2016,A
+434,Missouri,736,Vanderbilt,11/12/2016,H
+434,Missouri,694,Tennessee,11/19/2016,A
+434,Missouri,31,Arkansas,11/25/2016,H
+726,Navy,236,Fordham,9/3/2016,H
+726,Navy,164,UConn,9/10/2016,H
+726,Navy,718,Tulane,9/17/2016,A
+726,Navy,721,Air Force,10/1/2016,A
+726,Navy,288,Houston,10/8/2016,H
+726,Navy,196,East Carolina,10/13/2016,A
+726,Navy,404,Memphis,10/22/2016,H
+726,Navy,651,South Fla.,10/28/2016,A
+726,Navy,513,Notre Dame,11/5/2016,N
+726,Navy,719,Tulsa,11/12/2016,H
+726,Navy,663,SMU,11/26/2016,A
+726,Navy,725,Army West Point,12/10/2016,N
+463,Nebraska,96,Fresno St.,9/3/2016,H
+463,Nebraska,811,Wyoming,9/10/2016,H
+463,Nebraska,529,Oregon,9/17/2016,H
+463,Nebraska,509,Northwestern,9/24/2016,A
+463,Nebraska,301,Illinois,10/1/2016,H
+463,Nebraska,306,Indiana,10/15/2016,A
+463,Nebraska,559,Purdue,10/22/2016,H
+463,Nebraska,796,Wisconsin,10/29/2016,A
+463,Nebraska,518,Ohio St.,11/5/2016,A
+463,Nebraska,428,Minnesota,11/12/2016,H
+463,Nebraska,392,Maryland,11/19/2016,H
+463,Nebraska,312,Iowa,11/25/2016,A
+466,Nevada,90,Cal Poly,9/2/2016,H
+466,Nevada,513,Notre Dame,9/10/2016,A
+466,Nevada,86,Buffalo,9/17/2016,H
+466,Nevada,559,Purdue,9/24/2016,A
+466,Nevada,277,Hawaii,10/1/2016,A
+466,Nevada,96,Fresno St.,10/8/2016,H
+466,Nevada,630,San Jose St.,10/15/2016,A
+466,Nevada,811,Wyoming,10/22/2016,H
+466,Nevada,473,New Mexico,11/5/2016,A
+466,Nevada,626,San Diego St.,11/12/2016,H
+466,Nevada,731,Utah St.,11/19/2016,H
+466,Nevada,465,UNLV,11/26/2016,A
+473,New Mexico,650,South Dakota,9/1/2016,H
+473,New Mexico,472,New Mexico St.,9/10/2016,A
+473,New Mexico,587,Rutgers,9/17/2016,A
+473,New Mexico,630,San Jose St.,10/1/2016,H
+473,New Mexico,66,Boise St.,10/7/2016,H
+473,New Mexico,721,Air Force,10/15/2016,N
+473,New Mexico,498,La.-Monroe,10/22/2016,H
+473,New Mexico,277,Hawaii,10/29/2016,A
+473,New Mexico,466,Nevada,11/5/2016,H
+473,New Mexico,731,Utah St.,11/12/2016,A
+473,New Mexico,156,Colorado St.,11/19/2016,A
+473,New Mexico,811,Wyoming,11/26/2016,H
+472,New Mexico St.,704,UTEP,9/3/2016,A
+472,New Mexico St.,473,New Mexico,9/10/2016,H
+472,New Mexico St.,334,Kentucky,9/17/2016,A
+472,New Mexico St.,716,Troy,9/24/2016,A
+472,New Mexico St.,671,UL Lafayette,10/1/2016,H
+472,New Mexico St.,295,Idaho,10/15/2016,A
+472,New Mexico St.,253,Ga. Southern,10/22/2016,H
+472,New Mexico St.,697,Texas A&M,10/29/2016,A
+472,New Mexico St.,30,Arkansas St.,11/12/2016,A
+472,New Mexico St.,670,Texas St.,11/19/2016,H
+472,New Mexico St.,27,Appalachian St.,11/26/2016,H
+472,New Mexico St.,646,South Ala.,12/3/2016,A
+457,North Carolina,257,Georgia,9/3/2016,N
+457,North Carolina,301,Illinois,9/10/2016,A
+457,North Carolina,317,James Madison,9/17/2016,H
+457,North Carolina,545,Pittsburgh,9/24/2016,H
+457,North Carolina,234,Florida St.,10/1/2016,A
+457,North Carolina,742,Virginia Tech,10/8/2016,H
+457,North Carolina,415,Miami (FL),10/15/2016,A
+457,North Carolina,746,Virginia,10/22/2016,A
+457,North Carolina,255,Georgia Tech,11/5/2016,H
+457,North Carolina,193,Duke,11/10/2016,A
+457,North Carolina,141,The Citadel,11/19/2016,H
+457,North Carolina,490,North Carolina St.,11/25/2016,H
+490,North Carolina St.,786,William & Mary,9/1/2016,H
+490,North Carolina St.,196,East Carolina,9/10/2016,A
+490,North Carolina St.,523,Old Dominion,9/17/2016,H
+490,North Carolina St.,749,Wake Forest,10/1/2016,H
+490,North Carolina St.,513,Notre Dame,10/8/2016,H
+490,North Carolina St.,147,Clemson,10/15/2016,A
+490,North Carolina St.,367,Louisville,10/22/2016,A
+490,North Carolina St.,67,Boston College,10/29/2016,H
+490,North Carolina St.,234,Florida St.,11/5/2016,H
+490,North Carolina St.,688,Syracuse,11/12/2016,A
+490,North Carolina St.,415,Miami (FL),11/19/2016,H
+490,North Carolina St.,457,North Carolina,11/25/2016,A
+497,North Texas,663,SMU,9/3/2016,H
+497,North Texas,61,Bethune-Cookman,9/10/2016,H
+497,North Texas,235,Florida,9/17/2016,A
+497,North Texas,574,Rice,9/24/2016,A
+497,North Texas,419,Middle Tenn.,10/1/2016,H
+497,North Texas,388,Marshall,10/8/2016,H
+497,North Texas,725,Army West Point,10/22/2016,A
+497,North Texas,706,UTSA,10/29/2016,A
+497,North Texas,366,Louisiana Tech,11/5/2016,H
+497,North Texas,772,Western Ky.,11/12/2016,A
+497,North Texas,664,Southern Miss.,11/19/2016,H
+497,North Texas,704,UTEP,11/26/2016,A
+503,Northern Ill.,811,Wyoming,9/3/2016,A
+503,Northern Ill.,651,South Fla.,9/10/2016,A
+503,Northern Ill.,626,San Diego St.,9/17/2016,H
+503,Northern Ill.,771,Western Ill.,9/24/2016,H
+503,Northern Ill.,47,Ball St.,10/1/2016,A
+503,Northern Ill.,774,Western Mich.,10/8/2016,A
+503,Northern Ill.,129,Central Mich.,10/15/2016,H
+503,Northern Ill.,86,Buffalo,10/22/2016,H
+503,Northern Ill.,71,Bowling Green,11/1/2016,H
+503,Northern Ill.,709,Toledo,11/9/2016,N
+503,Northern Ill.,204,Eastern Mich.,11/16/2016,A
+503,Northern Ill.,331,Kent St.,11/25/2016,A
+509,Northwestern,774,Western Mich.,9/3/2016,H
+509,Northwestern,299,Illinois St.,9/10/2016,H
+509,Northwestern,193,Duke,9/17/2016,H
+509,Northwestern,463,Nebraska,9/24/2016,H
+509,Northwestern,312,Iowa,10/1/2016,A
+509,Northwestern,416,Michigan St.,10/15/2016,A
+509,Northwestern,306,Indiana,10/22/2016,H
+509,Northwestern,518,Ohio St.,10/29/2016,A
+509,Northwestern,796,Wisconsin,11/5/2016,H
+509,Northwestern,559,Purdue,11/12/2016,A
+509,Northwestern,301,Illinois,11/26/2016,H
+509,Northwestern,428,Minnesota,11/29/2016,A
+513,Notre Dame,703,Texas,9/4/2016,A
+513,Notre Dame,466,Nevada,9/10/2016,H
+513,Notre Dame,416,Michigan St.,9/17/2016,H
+513,Notre Dame,193,Duke,9/24/2016,H
+513,Notre Dame,688,Syracuse,10/1/2016,N
+513,Notre Dame,490,North Carolina St.,10/8/2016,A
+513,Notre Dame,674,Stanford,10/15/2016,H
+513,Notre Dame,415,Miami (FL),10/29/2016,H
+513,Notre Dame,726,Navy,11/5/2016,N
+513,Notre Dame,725,Army West Point,11/12/2016,N
+513,Notre Dame,742,Virginia Tech,11/19/2016,H
+513,Notre Dame,657,Southern California,11/26/2016,A
+519,Ohio,670,Texas St.,9/3/2016,H
+519,Ohio,328,Kansas,9/10/2016,A
+519,Ohio,694,Tennessee,9/17/2016,A
+519,Ohio,1092,Gardner-Webb,9/24/2016,H
+519,Ohio,414,Miami (OH),10/1/2016,A
+519,Ohio,71,Bowling Green,10/8/2016,H
+519,Ohio,204,Eastern Mich.,10/15/2016,H
+519,Ohio,331,Kent St.,10/22/2016,A
+519,Ohio,709,Toledo,10/27/2016,A
+519,Ohio,86,Buffalo,11/3/2016,H
+519,Ohio,129,Central Mich.,11/15/2016,A
+519,Ohio,5,Akron,11/22/2016,H
+518,Ohio St.,71,Bowling Green,9/3/2016,H
+518,Ohio St.,719,Tulsa,9/10/2016,H
+518,Ohio St.,522,Oklahoma,9/17/2016,A
+518,Ohio St.,587,Rutgers,10/1/2016,H
+518,Ohio St.,306,Indiana,10/8/2016,H
+518,Ohio St.,796,Wisconsin,10/15/2016,A
+518,Ohio St.,539,Penn St.,10/22/2016,A
+518,Ohio St.,509,Northwestern,10/29/2016,H
+518,Ohio St.,463,Nebraska,11/5/2016,H
+518,Ohio St.,392,Maryland,11/12/2016,A
+518,Ohio St.,416,Michigan St.,11/19/2016,A
+518,Ohio St.,418,Michigan,11/26/2016,H
+522,Oklahoma,288,Houston,9/3/2016,N
+522,Oklahoma,498,La.-Monroe,9/10/2016,H
+522,Oklahoma,518,Ohio St.,9/17/2016,H
+522,Oklahoma,698,TCU,10/1/2016,A
+522,Oklahoma,703,Texas,10/8/2016,N
+522,Oklahoma,327,Kansas St.,10/15/2016,H
+522,Oklahoma,700,Texas Tech,10/22/2016,A
+522,Oklahoma,328,Kansas,10/29/2016,H
+522,Oklahoma,311,Iowa St.,11/3/2016,A
+522,Oklahoma,51,Baylor,11/12/2016,H
+522,Oklahoma,768,West Virginia,11/19/2016,A
+522,Oklahoma,521,Oklahoma St.,12/3/2016,H
+521,Oklahoma St.,655,Southeastern La.,9/3/2016,H
+521,Oklahoma St.,129,Central Mich.,9/10/2016,H
+521,Oklahoma St.,545,Pittsburgh,9/17/2016,H
+521,Oklahoma St.,51,Baylor,9/24/2016,A
+521,Oklahoma St.,703,Texas,10/1/2016,H
+521,Oklahoma St.,311,Iowa St.,10/8/2016,H
+521,Oklahoma St.,328,Kansas,10/22/2016,A
+521,Oklahoma St.,768,West Virginia,10/29/2016,H
+521,Oklahoma St.,327,Kansas St.,11/5/2016,A
+521,Oklahoma St.,700,Texas Tech,11/12/2016,H
+521,Oklahoma St.,698,TCU,11/19/2016,A
+521,Oklahoma St.,522,Oklahoma,12/3/2016,A
+523,Old Dominion,270,Hampton,9/3/2016,H
+523,Old Dominion,27,Appalachian St.,9/10/2016,A
+523,Old Dominion,490,North Carolina St.,9/17/2016,A
+523,Old Dominion,706,UTSA,9/24/2016,H
+523,Old Dominion,458,Charlotte,10/1/2016,A
+523,Old Dominion,400,Massachusetts,10/8/2016,H
+523,Old Dominion,772,Western Ky.,10/22/2016,A
+523,Old Dominion,704,UTEP,10/29/2016,A
+523,Old Dominion,388,Marshall,11/5/2016,H
+523,Old Dominion,664,Southern Miss.,11/12/2016,H
+523,Old Dominion,229,Fla. Atlantic,11/19/2016,A
+523,Old Dominion,231,FIU,11/26/2016,H
+433,Ole Miss,234,Florida St.,9/5/2016,N
+433,Ole Miss,2915,Wofford,9/10/2016,H
+433,Ole Miss,8,Alabama,9/17/2016,H
+433,Ole Miss,257,Georgia,9/24/2016,H
+433,Ole Miss,404,Memphis,10/1/2016,H
+433,Ole Miss,31,Arkansas,10/15/2016,A
+433,Ole Miss,365,LSU,10/22/2016,A
+433,Ole Miss,37,Auburn,10/29/2016,H
+433,Ole Miss,253,Ga. Southern,11/5/2016,H
+433,Ole Miss,697,Texas A&M,11/12/2016,A
+433,Ole Miss,736,Vanderbilt,11/19/2016,A
+433,Ole Miss,430,Mississippi St.,11/26/2016,H
+529,Oregon,108,UC Davis,9/3/2016,H
+529,Oregon,746,Virginia,9/10/2016,H
+529,Oregon,463,Nebraska,9/17/2016,A
+529,Oregon,157,Colorado,9/24/2016,H
+529,Oregon,754,Washington St.,10/1/2016,A
+529,Oregon,756,Washington,10/8/2016,H
+529,Oregon,107,California,10/21/2016,A
+529,Oregon,28,Arizona St.,10/29/2016,H
+529,Oregon,657,Southern California,11/5/2016,A
+529,Oregon,674,Stanford,11/12/2016,H
+529,Oregon,732,Utah,11/19/2016,A
+529,Oregon,528,Oregon St.,11/26/2016,A
+528,Oregon St.,428,Minnesota,9/1/2016,A
+528,Oregon St.,294,Idaho St.,9/17/2016,H
+528,Oregon St.,66,Boise St.,9/24/2016,H
+528,Oregon St.,157,Colorado,10/1/2016,A
+528,Oregon St.,107,California,10/8/2016,H
+528,Oregon St.,732,Utah,10/15/2016,H
+528,Oregon St.,756,Washington,10/22/2016,A
+528,Oregon St.,754,Washington St.,10/29/2016,H
+528,Oregon St.,674,Stanford,11/5/2016,A
+528,Oregon St.,110,UCLA,11/12/2016,A
+528,Oregon St.,29,Arizona,11/19/2016,H
+528,Oregon St.,529,Oregon,11/26/2016,H
+539,Penn St.,331,Kent St.,9/3/2016,H
+539,Penn St.,545,Pittsburgh,9/10/2016,A
+539,Penn St.,690,Temple,9/17/2016,H
+539,Penn St.,418,Michigan,9/24/2016,A
+539,Penn St.,428,Minnesota,10/1/2016,H
+539,Penn St.,392,Maryland,10/8/2016,H
+539,Penn St.,518,Ohio St.,10/22/2016,H
+539,Penn St.,559,Purdue,10/29/2016,A
+539,Penn St.,312,Iowa,11/5/2016,H
+539,Penn St.,306,Indiana,11/12/2016,A
+539,Penn St.,587,Rutgers,11/19/2016,A
+539,Penn St.,416,Michigan St.,11/26/2016,H
+545,Pittsburgh,739,Villanova,9/3/2016,H
+545,Pittsburgh,539,Penn St.,9/10/2016,H
+545,Pittsburgh,521,Oklahoma St.,9/17/2016,A
+545,Pittsburgh,457,North Carolina,9/24/2016,A
+545,Pittsburgh,388,Marshall,10/1/2016,H
+545,Pittsburgh,255,Georgia Tech,10/8/2016,H
+545,Pittsburgh,746,Virginia,10/15/2016,A
+545,Pittsburgh,742,Virginia Tech,10/27/2016,H
+545,Pittsburgh,415,Miami (FL),11/5/2016,A
+545,Pittsburgh,147,Clemson,11/12/2016,A
+545,Pittsburgh,193,Duke,11/19/2016,H
+545,Pittsburgh,688,Syracuse,11/26/2016,H
+559,Purdue,202,Eastern Ky.,9/3/2016,H
+559,Purdue,140,Cincinnati,9/10/2016,H
+559,Purdue,466,Nevada,9/24/2016,H
+559,Purdue,392,Maryland,10/1/2016,A
+559,Purdue,301,Illinois,10/8/2016,A
+559,Purdue,312,Iowa,10/15/2016,H
+559,Purdue,463,Nebraska,10/22/2016,A
+559,Purdue,539,Penn St.,10/29/2016,H
+559,Purdue,428,Minnesota,11/5/2016,A
+559,Purdue,509,Northwestern,11/12/2016,H
+559,Purdue,796,Wisconsin,11/19/2016,H
+559,Purdue,306,Indiana,11/26/2016,A
+574,Rice,772,Western Ky.,9/1/2016,A
+574,Rice,725,Army West Point,9/10/2016,A
+574,Rice,51,Baylor,9/16/2016,H
+574,Rice,497,North Texas,9/24/2016,H
+574,Rice,664,Southern Miss.,10/1/2016,A
+574,Rice,706,UTSA,10/15/2016,H
+574,Rice,553,Prairie View,10/22/2016,H
+574,Rice,366,Louisiana Tech,10/29/2016,A
+574,Rice,229,Fla. Atlantic,11/5/2016,H
+574,Rice,458,Charlotte,11/12/2016,A
+574,Rice,704,UTEP,11/19/2016,H
+574,Rice,674,Stanford,11/26/2016,A
+587,Rutgers,756,Washington,9/3/2016,A
+587,Rutgers,290,Howard,9/10/2016,H
+587,Rutgers,473,New Mexico,9/17/2016,H
+587,Rutgers,312,Iowa,9/24/2016,H
+587,Rutgers,518,Ohio St.,10/1/2016,A
+587,Rutgers,418,Michigan,10/8/2016,H
+587,Rutgers,301,Illinois,10/15/2016,H
+587,Rutgers,428,Minnesota,10/22/2016,A
+587,Rutgers,306,Indiana,11/5/2016,H
+587,Rutgers,416,Michigan St.,11/12/2016,A
+587,Rutgers,539,Penn St.,11/19/2016,H
+587,Rutgers,392,Maryland,11/26/2016,A
+663,SMU,497,North Texas,9/3/2016,A
+663,SMU,51,Baylor,9/10/2016,A
+663,SMU,355,Liberty,9/17/2016,H
+663,SMU,698,TCU,9/23/2016,H
+663,SMU,690,Temple,10/1/2016,A
+663,SMU,719,Tulsa,10/7/2016,A
+663,SMU,288,Houston,10/22/2016,H
+663,SMU,718,Tulane,10/29/2016,A
+663,SMU,404,Memphis,11/5/2016,H
+663,SMU,196,East Carolina,11/12/2016,A
+663,SMU,651,South Fla.,11/19/2016,H
+663,SMU,726,Navy,11/26/2016,H
+626,San Diego St.,469,New Hampshire,9/3/2016,H
+626,San Diego St.,107,California,9/10/2016,H
+626,San Diego St.,503,Northern Ill.,9/17/2016,A
+626,San Diego St.,646,South Ala.,10/1/2016,A
+626,San Diego St.,465,UNLV,10/8/2016,H
+626,San Diego St.,96,Fresno St.,10/14/2016,A
+626,San Diego St.,630,San Jose St.,10/21/2016,H
+626,San Diego St.,731,Utah St.,10/28/2016,A
+626,San Diego St.,277,Hawaii,11/5/2016,H
+626,San Diego St.,466,Nevada,11/12/2016,A
+626,San Diego St.,811,Wyoming,11/19/2016,A
+626,San Diego St.,156,Colorado St.,11/26/2016,H
+630,San Jose St.,719,Tulsa,9/3/2016,A
+630,San Jose St.,550,Portland St.,9/10/2016,H
+630,San Jose St.,732,Utah,9/17/2016,H
+630,San Jose St.,311,Iowa St.,9/24/2016,A
+630,San Jose St.,473,New Mexico,10/1/2016,A
+630,San Jose St.,277,Hawaii,10/8/2016,H
+630,San Jose St.,466,Nevada,10/15/2016,H
+630,San Jose St.,626,San Diego St.,10/21/2016,A
+630,San Jose St.,465,UNLV,10/29/2016,H
+630,San Jose St.,66,Boise St.,11/4/2016,A
+630,San Jose St.,721,Air Force,11/19/2016,H
+630,San Jose St.,96,Fresno St.,11/26/2016,A
+646,South Ala.,430,Mississippi St.,9/3/2016,A
+646,South Ala.,253,Ga. Southern,9/10/2016,H
+646,South Ala.,671,UL Lafayette,9/17/2016,A
+646,South Ala.,483,Nicholls St.,9/24/2016,H
+646,South Ala.,626,San Diego St.,10/1/2016,H
+646,South Ala.,30,Arkansas St.,10/15/2016,A
+646,South Ala.,716,Troy,10/20/2016,H
+646,South Ala.,254,Georgia St.,10/29/2016,H
+646,South Ala.,498,La.-Monroe,11/5/2016,A
+646,South Ala.,365,LSU,11/19/2016,A
+646,South Ala.,295,Idaho,11/26/2016,A
+646,South Ala.,472,New Mexico St.,12/3/2016,H
+648,South Carolina,736,Vanderbilt,9/1/2016,A
+648,South Carolina,430,Mississippi St.,9/10/2016,A
+648,South Carolina,196,East Carolina,9/17/2016,H
+648,South Carolina,334,Kentucky,9/24/2016,A
+648,South Carolina,697,Texas A&M,10/1/2016,H
+648,South Carolina,257,Georgia,10/8/2016,H
+648,South Carolina,400,Massachusetts,10/22/2016,H
+648,South Carolina,694,Tennessee,10/29/2016,H
+648,South Carolina,434,Missouri,11/5/2016,H
+648,South Carolina,235,Florida,11/12/2016,A
+648,South Carolina,769,Western Caro.,11/19/2016,H
+648,South Carolina,147,Clemson,11/26/2016,A
+651,South Fla.,711,Towson,9/3/2016,H
+651,South Fla.,503,Northern Ill.,9/10/2016,H
+651,South Fla.,688,Syracuse,9/17/2016,A
+651,South Fla.,234,Florida St.,9/24/2016,H
+651,South Fla.,140,Cincinnati,10/1/2016,A
+651,South Fla.,196,East Carolina,10/8/2016,H
+651,South Fla.,164,UConn,10/15/2016,H
+651,South Fla.,690,Temple,10/21/2016,A
+651,South Fla.,726,Navy,10/28/2016,H
+651,South Fla.,404,Memphis,11/12/2016,A
+651,South Fla.,663,SMU,11/19/2016,A
+651,South Fla.,128,UCF,11/26/2016,H
+657,Southern California,8,Alabama,9/3/2016,N
+657,Southern California,731,Utah St.,9/10/2016,H
+657,Southern California,674,Stanford,9/17/2016,A
+657,Southern California,732,Utah,9/23/2016,A
+657,Southern California,28,Arizona St.,10/1/2016,H
+657,Southern California,157,Colorado,10/8/2016,H
+657,Southern California,29,Arizona,10/15/2016,A
+657,Southern California,107,California,10/27/2016,H
+657,Southern California,529,Oregon,11/5/2016,H
+657,Southern California,756,Washington,11/12/2016,A
+657,Southern California,110,UCLA,11/19/2016,A
+657,Southern California,513,Notre Dame,11/26/2016,H
+664,Southern Miss.,334,Kentucky,9/3/2016,A
+664,Southern Miss.,632,Savannah St.,9/10/2016,H
+664,Southern Miss.,716,Troy,9/17/2016,H
+664,Southern Miss.,704,UTEP,9/24/2016,A
+664,Southern Miss.,574,Rice,10/1/2016,H
+664,Southern Miss.,706,UTSA,10/8/2016,A
+664,Southern Miss.,365,LSU,10/15/2016,A
+664,Southern Miss.,388,Marshall,10/29/2016,H
+664,Southern Miss.,458,Charlotte,11/5/2016,H
+664,Southern Miss.,523,Old Dominion,11/12/2016,A
+664,Southern Miss.,497,North Texas,11/19/2016,A
+664,Southern Miss.,366,Louisiana Tech,11/25/2016,H
+674,Stanford,327,Kansas St.,9/2/2016,H
+674,Stanford,657,Southern California,9/17/2016,H
+674,Stanford,110,UCLA,9/24/2016,A
+674,Stanford,756,Washington,9/30/2016,A
+674,Stanford,754,Washington St.,10/8/2016,H
+674,Stanford,513,Notre Dame,10/15/2016,A
+674,Stanford,157,Colorado,10/22/2016,H
+674,Stanford,29,Arizona,10/29/2016,A
+674,Stanford,528,Oregon St.,11/5/2016,H
+674,Stanford,529,Oregon,11/12/2016,A
+674,Stanford,107,California,11/19/2016,A
+674,Stanford,574,Rice,11/26/2016,H
+688,Syracuse,153,Colgate,9/2/2016,H
+688,Syracuse,367,Louisville,9/9/2016,H
+688,Syracuse,651,South Fla.,9/17/2016,H
+688,Syracuse,164,UConn,9/24/2016,A
+688,Syracuse,513,Notre Dame,10/1/2016,N
+688,Syracuse,749,Wake Forest,10/8/2016,A
+688,Syracuse,742,Virginia Tech,10/15/2016,H
+688,Syracuse,67,Boston College,10/22/2016,A
+688,Syracuse,147,Clemson,11/5/2016,A
+688,Syracuse,490,North Carolina St.,11/12/2016,H
+688,Syracuse,234,Florida St.,11/19/2016,H
+688,Syracuse,545,Pittsburgh,11/26/2016,A
+698,TCU,649,South Dakota St.,9/3/2016,H
+698,TCU,31,Arkansas,9/10/2016,H
+698,TCU,311,Iowa St.,9/17/2016,H
+698,TCU,663,SMU,9/23/2016,A
+698,TCU,522,Oklahoma,10/1/2016,H
+698,TCU,328,Kansas,10/8/2016,A
+698,TCU,768,West Virginia,10/22/2016,A
+698,TCU,700,Texas Tech,10/29/2016,H
+698,TCU,51,Baylor,11/5/2016,A
+698,TCU,521,Oklahoma St.,11/19/2016,H
+698,TCU,703,Texas,11/25/2016,A
+698,TCU,327,Kansas St.,12/3/2016,H
+690,Temple,725,Army West Point,9/2/2016,H
+690,Temple,683,Stony Brook,9/10/2016,H
+690,Temple,539,Penn St.,9/17/2016,A
+690,Temple,458,Charlotte,9/24/2016,H
+690,Temple,663,SMU,10/1/2016,H
+690,Temple,404,Memphis,10/6/2016,A
+690,Temple,128,UCF,10/15/2016,A
+690,Temple,651,South Fla.,10/21/2016,H
+690,Temple,140,Cincinnati,10/29/2016,H
+690,Temple,164,UConn,11/4/2016,A
+690,Temple,718,Tulane,11/19/2016,A
+690,Temple,196,East Carolina,11/26/2016,H
+694,Tennessee,27,Appalachian St.,9/1/2016,H
+694,Tennessee,742,Virginia Tech,9/10/2016,N
+694,Tennessee,519,Ohio,9/17/2016,H
+694,Tennessee,235,Florida,9/24/2016,H
+694,Tennessee,257,Georgia,10/1/2016,A
+694,Tennessee,697,Texas A&M,10/8/2016,A
+694,Tennessee,8,Alabama,10/15/2016,H
+694,Tennessee,648,South Carolina,10/29/2016,A
+694,Tennessee,692,Tennessee Tech,11/5/2016,H
+694,Tennessee,334,Kentucky,11/12/2016,H
+694,Tennessee,434,Missouri,11/19/2016,H
+694,Tennessee,736,Vanderbilt,11/26/2016,A
+703,Texas,513,Notre Dame,9/4/2016,H
+703,Texas,704,UTEP,9/10/2016,H
+703,Texas,107,California,9/17/2016,A
+703,Texas,521,Oklahoma St.,10/1/2016,A
+703,Texas,522,Oklahoma,10/8/2016,N
+703,Texas,311,Iowa St.,10/15/2016,H
+703,Texas,327,Kansas St.,10/22/2016,A
+703,Texas,51,Baylor,10/29/2016,H
+703,Texas,700,Texas Tech,11/5/2016,A
+703,Texas,768,West Virginia,11/12/2016,H
+703,Texas,328,Kansas,11/19/2016,A
+703,Texas,698,TCU,11/25/2016,H
+697,Texas A&M,110,UCLA,9/3/2016,H
+697,Texas A&M,553,Prairie View,9/10/2016,H
+697,Texas A&M,37,Auburn,9/17/2016,A
+697,Texas A&M,31,Arkansas,9/24/2016,N
+697,Texas A&M,648,South Carolina,10/1/2016,A
+697,Texas A&M,694,Tennessee,10/8/2016,H
+697,Texas A&M,8,Alabama,10/22/2016,A
+697,Texas A&M,472,New Mexico St.,10/29/2016,H
+697,Texas A&M,430,Mississippi St.,11/5/2016,A
+697,Texas A&M,433,Ole Miss,11/12/2016,H
+697,Texas A&M,706,UTSA,11/19/2016,H
+697,Texas A&M,365,LSU,11/24/2016,H
+670,Texas St.,519,Ohio,9/3/2016,A
+670,Texas St.,31,Arkansas,9/17/2016,A
+670,Texas St.,288,Houston,9/24/2016,H
+670,Texas St.,2743,Incarnate Word,10/1/2016,H
+670,Texas St.,254,Georgia St.,10/8/2016,A
+670,Texas St.,498,La.-Monroe,10/15/2016,A
+670,Texas St.,671,UL Lafayette,10/22/2016,H
+670,Texas St.,27,Appalachian St.,11/5/2016,A
+670,Texas St.,295,Idaho,11/12/2016,H
+670,Texas St.,472,New Mexico St.,11/19/2016,A
+670,Texas St.,716,Troy,11/26/2016,H
+670,Texas St.,30,Arkansas St.,12/3/2016,H
+700,Texas Tech,676,SFA,9/3/2016,H
+700,Texas Tech,28,Arizona St.,9/10/2016,A
+700,Texas Tech,366,Louisiana Tech,9/17/2016,H
+700,Texas Tech,328,Kansas,9/29/2016,H
+700,Texas Tech,327,Kansas St.,10/8/2016,A
+700,Texas Tech,768,West Virginia,10/15/2016,H
+700,Texas Tech,522,Oklahoma,10/22/2016,H
+700,Texas Tech,698,TCU,10/29/2016,A
+700,Texas Tech,703,Texas,11/5/2016,H
+700,Texas Tech,521,Oklahoma St.,11/12/2016,A
+700,Texas Tech,311,Iowa St.,11/19/2016,A
+700,Texas Tech,51,Baylor,11/25/2016,N
+709,Toledo,30,Arkansas St.,9/2/2016,A
+709,Toledo,380,Maine,9/10/2016,H
+709,Toledo,96,Fresno St.,9/17/2016,H
+709,Toledo,77,BYU,9/30/2016,A
+709,Toledo,204,Eastern Mich.,10/8/2016,A
+709,Toledo,71,Bowling Green,10/15/2016,H
+709,Toledo,129,Central Mich.,10/22/2016,H
+709,Toledo,519,Ohio,10/27/2016,H
+709,Toledo,5,Akron,11/2/2016,A
+709,Toledo,503,Northern Ill.,11/9/2016,N
+709,Toledo,47,Ball St.,11/16/2016,H
+709,Toledo,774,Western Mich.,11/25/2016,A
+716,Troy,43,Austin Peay,9/3/2016,H
+716,Troy,147,Clemson,9/10/2016,A
+716,Troy,664,Southern Miss.,9/17/2016,A
+716,Troy,472,New Mexico St.,9/24/2016,H
+716,Troy,295,Idaho,10/1/2016,A
+716,Troy,254,Georgia St.,10/15/2016,H
+716,Troy,646,South Ala.,10/20/2016,A
+716,Troy,400,Massachusetts,11/5/2016,H
+716,Troy,27,Appalachian St.,11/12/2016,H
+716,Troy,30,Arkansas St.,11/17/2016,H
+716,Troy,670,Texas St.,11/26/2016,A
+716,Troy,253,Ga. Southern,12/3/2016,A
+718,Tulane,749,Wake Forest,9/1/2016,A
+718,Tulane,665,Southern U.,9/10/2016,H
+718,Tulane,726,Navy,9/17/2016,H
+718,Tulane,671,UL Lafayette,9/24/2016,H
+718,Tulane,400,Massachusetts,10/1/2016,A
+718,Tulane,128,UCF,10/7/2016,A
+718,Tulane,404,Memphis,10/14/2016,H
+718,Tulane,719,Tulsa,10/22/2016,A
+718,Tulane,663,SMU,10/29/2016,H
+718,Tulane,288,Houston,11/12/2016,A
+718,Tulane,690,Temple,11/19/2016,H
+718,Tulane,164,UConn,11/26/2016,A
+719,Tulsa,630,San Jose St.,9/3/2016,H
+719,Tulsa,518,Ohio St.,9/10/2016,A
+719,Tulsa,488,N.C. A&T,9/17/2016,H
+719,Tulsa,96,Fresno St.,9/24/2016,A
+719,Tulsa,663,SMU,10/7/2016,H
+719,Tulsa,288,Houston,10/15/2016,A
+719,Tulsa,718,Tulane,10/22/2016,H
+719,Tulsa,404,Memphis,10/29/2016,A
+719,Tulsa,196,East Carolina,11/5/2016,H
+719,Tulsa,726,Navy,11/12/2016,A
+719,Tulsa,128,UCF,11/19/2016,A
+719,Tulsa,140,Cincinnati,11/25/2016,H
+128,UCF,647,South Carolina St.,9/3/2016,H
+128,UCF,418,Michigan,9/10/2016,A
+128,UCF,392,Maryland,9/17/2016,H
+128,UCF,231,FIU,9/24/2016,A
+128,UCF,196,East Carolina,10/1/2016,A
+128,UCF,718,Tulane,10/7/2016,H
+128,UCF,690,Temple,10/15/2016,H
+128,UCF,164,UConn,10/22/2016,A
+128,UCF,288,Houston,10/29/2016,A
+128,UCF,140,Cincinnati,11/12/2016,H
+128,UCF,719,Tulsa,11/19/2016,H
+128,UCF,651,South Fla.,11/26/2016,A
+110,UCLA,697,Texas A&M,9/3/2016,A
+110,UCLA,465,UNLV,9/10/2016,H
+110,UCLA,77,BYU,9/17/2016,A
+110,UCLA,674,Stanford,9/24/2016,H
+110,UCLA,29,Arizona,10/1/2016,H
+110,UCLA,28,Arizona St.,10/8/2016,A
+110,UCLA,754,Washington St.,10/15/2016,A
+110,UCLA,732,Utah,10/22/2016,H
+110,UCLA,157,Colorado,11/3/2016,A
+110,UCLA,528,Oregon St.,11/12/2016,H
+110,UCLA,657,Southern California,11/19/2016,H
+110,UCLA,107,California,11/26/2016,A
+164,UConn,380,Maine,9/1/2016,H
+164,UConn,726,Navy,9/10/2016,A
+164,UConn,746,Virginia,9/17/2016,H
+164,UConn,688,Syracuse,9/24/2016,H
+164,UConn,288,Houston,9/29/2016,A
+164,UConn,140,Cincinnati,10/8/2016,H
+164,UConn,651,South Fla.,10/15/2016,A
+164,UConn,128,UCF,10/22/2016,H
+164,UConn,196,East Carolina,10/29/2016,A
+164,UConn,690,Temple,11/4/2016,H
+164,UConn,67,Boston College,11/19/2016,A
+164,UConn,718,Tulane,11/26/2016,H
+671,UL Lafayette,66,Boise St.,9/3/2016,H
+671,UL Lafayette,402,McNeese St.,9/10/2016,H
+671,UL Lafayette,646,South Ala.,9/17/2016,H
+671,UL Lafayette,718,Tulane,9/24/2016,A
+671,UL Lafayette,472,New Mexico St.,10/1/2016,A
+671,UL Lafayette,27,Appalachian St.,10/12/2016,H
+671,UL Lafayette,670,Texas St.,10/22/2016,A
+671,UL Lafayette,295,Idaho,11/5/2016,H
+671,UL Lafayette,253,Ga. Southern,11/10/2016,A
+671,UL Lafayette,257,Georgia,11/19/2016,A
+671,UL Lafayette,30,Arkansas St.,11/26/2016,H
+671,UL Lafayette,498,La.-Monroe,12/3/2016,A
+465,UNLV,314,Jackson St.,9/1/2016,H
+465,UNLV,110,UCLA,9/10/2016,A
+465,UNLV,129,Central Mich.,9/17/2016,A
+465,UNLV,295,Idaho,9/24/2016,H
+465,UNLV,96,Fresno St.,10/1/2016,H
+465,UNLV,626,San Diego St.,10/8/2016,A
+465,UNLV,277,Hawaii,10/15/2016,A
+465,UNLV,156,Colorado St.,10/22/2016,H
+465,UNLV,630,San Jose St.,10/29/2016,A
+465,UNLV,811,Wyoming,11/12/2016,H
+465,UNLV,66,Boise St.,11/18/2016,A
+465,UNLV,466,Nevada,11/26/2016,H
+704,UTEP,472,New Mexico St.,9/3/2016,H
+704,UTEP,703,Texas,9/10/2016,A
+704,UTEP,725,Army West Point,9/17/2016,H
+704,UTEP,664,Southern Miss.,9/24/2016,H
+704,UTEP,366,Louisiana Tech,10/1/2016,A
+704,UTEP,231,FIU,10/8/2016,H
+704,UTEP,706,UTSA,10/22/2016,A
+704,UTEP,523,Old Dominion,10/29/2016,H
+704,UTEP,287,Houston Baptist,11/5/2016,H
+704,UTEP,229,Fla. Atlantic,11/12/2016,A
+704,UTEP,574,Rice,11/19/2016,A
+704,UTEP,497,North Texas,11/26/2016,H
+706,UTSA,7,Alabama St.,9/3/2016,H
+706,UTSA,156,Colorado St.,9/10/2016,A
+706,UTSA,28,Arizona St.,9/16/2016,H
+706,UTSA,523,Old Dominion,9/24/2016,A
+706,UTSA,664,Southern Miss.,10/8/2016,H
+706,UTSA,574,Rice,10/15/2016,A
+706,UTSA,704,UTEP,10/22/2016,H
+706,UTSA,497,North Texas,10/29/2016,H
+706,UTSA,419,Middle Tenn.,11/5/2016,A
+706,UTSA,366,Louisiana Tech,11/12/2016,A
+706,UTSA,697,Texas A&M,11/19/2016,A
+706,UTSA,458,Charlotte,11/26/2016,H
+732,Utah,667,Southern Utah,9/1/2016,H
+732,Utah,77,BYU,9/10/2016,H
+732,Utah,630,San Jose St.,9/17/2016,A
+732,Utah,657,Southern California,9/23/2016,H
+732,Utah,107,California,10/1/2016,A
+732,Utah,29,Arizona,10/8/2016,H
+732,Utah,528,Oregon St.,10/15/2016,A
+732,Utah,110,UCLA,10/22/2016,A
+732,Utah,756,Washington,10/29/2016,H
+732,Utah,28,Arizona St.,11/10/2016,A
+732,Utah,529,Oregon,11/19/2016,H
+732,Utah,157,Colorado,11/26/2016,A
+731,Utah St.,758,Weber St.,9/1/2016,H
+731,Utah St.,657,Southern California,9/10/2016,A
+731,Utah St.,30,Arkansas St.,9/16/2016,H
+731,Utah St.,721,Air Force,9/24/2016,H
+731,Utah St.,66,Boise St.,10/1/2016,A
+731,Utah St.,156,Colorado St.,10/8/2016,A
+731,Utah St.,96,Fresno St.,10/22/2016,H
+731,Utah St.,626,San Diego St.,10/28/2016,H
+731,Utah St.,811,Wyoming,11/5/2016,A
+731,Utah St.,473,New Mexico,11/12/2016,H
+731,Utah St.,466,Nevada,11/19/2016,A
+731,Utah St.,77,BYU,11/26/2016,A
+736,Vanderbilt,648,South Carolina,9/1/2016,H
+736,Vanderbilt,419,Middle Tenn.,9/10/2016,H
+736,Vanderbilt,255,Georgia Tech,9/17/2016,A
+736,Vanderbilt,772,Western Ky.,9/24/2016,A
+736,Vanderbilt,235,Florida,10/1/2016,H
+736,Vanderbilt,334,Kentucky,10/8/2016,A
+736,Vanderbilt,257,Georgia,10/15/2016,A
+736,Vanderbilt,691,Tennessee St.,10/22/2016,H
+736,Vanderbilt,37,Auburn,11/5/2016,A
+736,Vanderbilt,434,Missouri,11/12/2016,A
+736,Vanderbilt,433,Ole Miss,11/19/2016,H
+736,Vanderbilt,694,Tennessee,11/26/2016,H
+746,Virginia,575,Richmond,9/3/2016,H
+746,Virginia,529,Oregon,9/10/2016,A
+746,Virginia,164,UConn,9/17/2016,A
+746,Virginia,129,Central Mich.,9/24/2016,H
+746,Virginia,193,Duke,10/1/2016,A
+746,Virginia,545,Pittsburgh,10/15/2016,H
+746,Virginia,457,North Carolina,10/22/2016,H
+746,Virginia,367,Louisville,10/29/2016,H
+746,Virginia,749,Wake Forest,11/5/2016,A
+746,Virginia,415,Miami (FL),11/12/2016,H
+746,Virginia,255,Georgia Tech,11/19/2016,A
+746,Virginia,742,Virginia Tech,11/26/2016,A
+742,Virginia Tech,355,Liberty,9/3/2016,H
+742,Virginia Tech,694,Tennessee,9/10/2016,N
+742,Virginia Tech,67,Boston College,9/17/2016,H
+742,Virginia Tech,196,East Carolina,9/24/2016,H
+742,Virginia Tech,457,North Carolina,10/8/2016,A
+742,Virginia Tech,688,Syracuse,10/15/2016,A
+742,Virginia Tech,415,Miami (FL),10/20/2016,H
+742,Virginia Tech,545,Pittsburgh,10/27/2016,A
+742,Virginia Tech,193,Duke,11/5/2016,A
+742,Virginia Tech,255,Georgia Tech,11/12/2016,H
+742,Virginia Tech,513,Notre Dame,11/19/2016,A
+742,Virginia Tech,746,Virginia,11/26/2016,H
+749,Wake Forest,718,Tulane,9/1/2016,H
+749,Wake Forest,193,Duke,9/10/2016,A
+749,Wake Forest,180,Delaware,9/17/2016,H
+749,Wake Forest,306,Indiana,9/24/2016,A
+749,Wake Forest,490,North Carolina St.,10/1/2016,A
+749,Wake Forest,688,Syracuse,10/8/2016,H
+749,Wake Forest,234,Florida St.,10/15/2016,A
+749,Wake Forest,725,Army West Point,10/29/2016,H
+749,Wake Forest,746,Virginia,11/5/2016,H
+749,Wake Forest,367,Louisville,11/12/2016,A
+749,Wake Forest,147,Clemson,11/19/2016,H
+749,Wake Forest,67,Boston College,11/26/2016,H
+756,Washington,587,Rutgers,9/3/2016,H
+756,Washington,295,Idaho,9/10/2016,H
+756,Washington,550,Portland St.,9/17/2016,H
+756,Washington,29,Arizona,9/24/2016,A
+756,Washington,674,Stanford,9/30/2016,H
+756,Washington,529,Oregon,10/8/2016,A
+756,Washington,528,Oregon St.,10/22/2016,H
+756,Washington,732,Utah,10/29/2016,A
+756,Washington,107,California,11/5/2016,A
+756,Washington,657,Southern California,11/12/2016,H
+756,Washington,28,Arizona St.,11/19/2016,H
+756,Washington,754,Washington St.,11/25/2016,A
+754,Washington St.,207,Eastern Wash.,9/3/2016,H
+754,Washington St.,66,Boise St.,9/10/2016,A
+754,Washington St.,295,Idaho,9/17/2016,H
+754,Washington St.,529,Oregon,10/1/2016,H
+754,Washington St.,674,Stanford,10/8/2016,A
+754,Washington St.,110,UCLA,10/15/2016,H
+754,Washington St.,28,Arizona St.,10/22/2016,A
+754,Washington St.,528,Oregon St.,10/29/2016,A
+754,Washington St.,29,Arizona,11/5/2016,H
+754,Washington St.,107,California,11/12/2016,H
+754,Washington St.,157,Colorado,11/19/2016,A
+754,Washington St.,756,Washington,11/25/2016,H
+768,West Virginia,434,Missouri,9/3/2016,H
+768,West Virginia,817,Youngstown St.,9/10/2016,H
+768,West Virginia,77,BYU,9/24/2016,N
+768,West Virginia,327,Kansas St.,10/1/2016,H
+768,West Virginia,700,Texas Tech,10/15/2016,A
+768,West Virginia,698,TCU,10/22/2016,H
+768,West Virginia,521,Oklahoma St.,10/29/2016,A
+768,West Virginia,328,Kansas,11/5/2016,H
+768,West Virginia,703,Texas,11/12/2016,A
+768,West Virginia,522,Oklahoma,11/19/2016,H
+768,West Virginia,311,Iowa St.,11/26/2016,A
+768,West Virginia,51,Baylor,12/3/2016,H
+772,Western Ky.,574,Rice,9/1/2016,H
+772,Western Ky.,8,Alabama,9/10/2016,A
+772,Western Ky.,414,Miami (OH),9/17/2016,A
+772,Western Ky.,736,Vanderbilt,9/24/2016,H
+772,Western Ky.,287,Houston Baptist,10/1/2016,H
+772,Western Ky.,366,Louisiana Tech,10/6/2016,A
+772,Western Ky.,419,Middle Tenn.,10/15/2016,A
+772,Western Ky.,523,Old Dominion,10/22/2016,H
+772,Western Ky.,229,Fla. Atlantic,10/29/2016,A
+772,Western Ky.,231,FIU,11/5/2016,H
+772,Western Ky.,497,North Texas,11/12/2016,H
+772,Western Ky.,388,Marshall,11/26/2016,A
+774,Western Mich.,509,Northwestern,9/3/2016,A
+774,Western Mich.,489,N.C. Central,9/10/2016,H
+774,Western Mich.,301,Illinois,9/17/2016,A
+774,Western Mich.,253,Ga. Southern,9/24/2016,H
+774,Western Mich.,129,Central Mich.,10/1/2016,A
+774,Western Mich.,503,Northern Ill.,10/8/2016,H
+774,Western Mich.,5,Akron,10/15/2016,A
+774,Western Mich.,204,Eastern Mich.,10/22/2016,H
+774,Western Mich.,47,Ball St.,11/1/2016,A
+774,Western Mich.,331,Kent St.,11/8/2016,A
+774,Western Mich.,86,Buffalo,11/19/2016,H
+774,Western Mich.,709,Toledo,11/25/2016,H
+796,Wisconsin,365,LSU,9/3/2016,N
+796,Wisconsin,5,Akron,9/10/2016,H
+796,Wisconsin,254,Georgia St.,9/17/2016,H
+796,Wisconsin,416,Michigan St.,9/24/2016,A
+796,Wisconsin,418,Michigan,10/1/2016,A
+796,Wisconsin,518,Ohio St.,10/15/2016,H
+796,Wisconsin,312,Iowa,10/22/2016,A
+796,Wisconsin,463,Nebraska,10/29/2016,H
+796,Wisconsin,509,Northwestern,11/5/2016,A
+796,Wisconsin,301,Illinois,11/12/2016,H
+796,Wisconsin,559,Purdue,11/19/2016,A
+796,Wisconsin,428,Minnesota,11/26/2016,H
+811,Wyoming,503,Northern Ill.,9/3/2016,H
+811,Wyoming,463,Nebraska,9/10/2016,A
+811,Wyoming,108,UC Davis,9/17/2016,H
+811,Wyoming,204,Eastern Mich.,9/23/2016,A
+811,Wyoming,156,Colorado St.,10/1/2016,A
+811,Wyoming,721,Air Force,10/8/2016,H
+811,Wyoming,466,Nevada,10/22/2016,A
+811,Wyoming,66,Boise St.,10/29/2016,H
+811,Wyoming,731,Utah St.,11/5/2016,H
+811,Wyoming,465,UNLV,11/12/2016,A
+811,Wyoming,626,San Diego St.,11/19/2016,H
+811,Wyoming,473,New Mexico,11/26/2016,A
+626,San Diego St.,811,Wyoming,12/3/2016,
+811,Wyoming,626,San Diego St.,12/3/2016,

@@ -1,0 +1,1511 @@
+Team ID,Team,Opp ID,Opp,Date,Location
+367,Louisville,415,Miami (FL),9/1/2014,
+415,Miami (FL),367,Louisville,9/1/2014,
+706,UTSA,29,Arizona,9/4/2014,@
+29,Arizona,706,UTSA,9/4/2014,@
+466,Nevada,754,Washington St.,9/5/2014,
+67,Boston College,545,Pittsburgh,9/5/2014,@
+754,Washington St.,466,Nevada,9/5/2014,
+545,Pittsburgh,67,Boston College,9/5/2014,@
+8,Alabama,229,Fla. Atlantic,9/6/2014,
+27,Appalachian St.,-99,Campbell,9/6/2014,
+473,New Mexico,28,Arizona St.,9/6/2014,@
+31,Arkansas,-99,Nicholls St.,9/6/2014,
+725,Army West Point,86,Buffalo,9/6/2014,
+37,Auburn,630,San Jose St.,9/6/2014,
+51,Baylor,-99,Northwestern St.,9/6/2014,
+66,Boise St.,156,Colorado St.,9/6/2014,
+71,Bowling Green,-99,Virginia Military Institute,9/6/2014,
+703,Texas,77,BYU,9/6/2014,@
+107,California,-99,Sacramento St.,9/6/2014,
+559,Purdue,129,Central Mich.,9/6/2014,@
+147,Clemson,-99,South Carolina St.,9/6/2014,
+157,Colorado,400,Massachusetts,9/6/2014,
+164,UConn,-99,Stony Brook,9/6/2014,
+716,Troy,193,Duke,9/6/2014,@
+414,Miami (OH),-99,Eastern Kentucky,9/6/2014,@
+235,Florida,204,Eastern Mich.,9/6/2014,
+231,FIU,-99,Wagner,9/6/2014,
+234,Florida St.,-99,Citadel,9/6/2014,
+253,Ga. Southern,-99,Savannah St.,9/6/2014,
+718,Tulane,255,Georgia Tech,9/6/2014,@
+288,Houston,-99,Grambling St.,9/6/2014,
+301,Illinois,772,Western Ky.,9/6/2014,
+312,Iowa,47,Ball St.,9/6/2014,
+328,Kansas,-99,Southeast Missouri St.,9/6/2014,
+311,Iowa St.,327,Kansas St.,9/6/2014,@
+334,Kentucky,519,Ohio,9/6/2014,
+365,LSU,-99,Sam Houston St.,9/6/2014,
+671,UL Lafayette,366,Louisiana Tech,9/6/2014,@
+498,La.-Monroe,295,Idaho,9/6/2014,
+367,Louisville,-99,Murray St.,9/6/2014,
+388,Marshall,-99,Rhode Island,9/6/2014,
+651,South Fla.,392,Maryland,9/6/2014,@
+415,Miami (FL),-99,Florida A&M,9/6/2014,
+428,Minnesota,419,Middle Tenn.,9/6/2014,
+433,Ole Miss,736,Vanderbilt,9/6/2014,
+430,Mississippi St.,-99,Alabama-Birmingham,9/6/2014,
+709,Toledo,434,Missouri,9/6/2014,@
+690,Temple,726,Navy,9/6/2014,@
+463,Nebraska,-99,McNeese St.,9/6/2014,
+465,UNLV,-99,Northern Colorado,9/6/2014,
+254,Georgia St.,472,New Mexico St.,9/6/2014,@
+457,North Carolina,626,San Diego St.,9/6/2014,
+490,North Carolina St.,523,Old Dominion,9/6/2014,
+497,North Texas,663,SMU,9/6/2014,
+509,Northwestern,503,Northern Ill.,9/6/2014,@
+513,Notre Dame,418,Michigan,9/6/2014,
+719,Tulsa,522,Oklahoma,9/6/2014,@
+521,Oklahoma St.,-99,Missouri St.,9/6/2014,
+529,Oregon,416,Michigan St.,9/6/2014,
+277,Hawaii,528,Oregon St.,9/6/2014,@
+539,Penn St.,5,Akron,9/6/2014,
+587,Rutgers,-99,Howard,9/6/2014,
+331,Kent St.,646,South Ala.,9/6/2014,@
+648,South Carolina,196,East Carolina,9/6/2014,
+674,Stanford,657,Southern California,9/6/2014,@
+664,Southern Miss.,-99,Alcorn St.,9/6/2014,
+694,Tennessee,30,Arkansas St.,9/6/2014,
+697,Texas A&M,-99,Lamar,9/6/2014,
+704,UTEP,700,Texas Tech,9/6/2014,@
+110,UCLA,404,Memphis,9/6/2014,
+732,Utah,96,Fresno St.,9/6/2014,
+731,Utah St.,-99,Idaho St.,9/6/2014,
+746,Virginia,-99,Richmond,9/6/2014,
+518,Ohio St.,742,Virginia Tech,9/6/2014,@
+749,Wake Forest,-99,Gardner-Webb,9/6/2014,
+756,Washington,-99,Eastern Washington,9/6/2014,
+768,West Virginia,-99,Towson,9/6/2014,
+796,Wisconsin,-99,Western Illinois,9/6/2014,
+811,Wyoming,721,Air Force,9/6/2014,
+156,Colorado St.,66,Boise St.,9/6/2014,
+721,Air Force,811,Wyoming,9/6/2014,
+229,Fla. Atlantic,8,Alabama,9/6/2014,
+-99,Campbell,27,Appalachian St.,9/6/2014,
+28,Arizona St.,473,New Mexico,9/6/2014,@
+-99,Nicholls St.,31,Arkansas,9/6/2014,
+86,Buffalo,725,Army West Point,9/6/2014,
+630,San Jose St.,37,Auburn,9/6/2014,
+-99,Northwestern St.,51,Baylor,9/6/2014,
+-99,Virginia Military Institute,71,Bowling Green,9/6/2014,
+77,BYU,703,Texas,9/6/2014,@
+-99,Sacramento St.,107,California,9/6/2014,
+129,Central Mich.,559,Purdue,9/6/2014,@
+-99,South Carolina St.,147,Clemson,9/6/2014,
+400,Massachusetts,157,Colorado,9/6/2014,
+-99,Stony Brook,164,UConn,9/6/2014,
+193,Duke,716,Troy,9/6/2014,@
+-99,Eastern Kentucky,414,Miami (OH),9/6/2014,@
+204,Eastern Mich.,235,Florida,9/6/2014,
+-99,Wagner,231,FIU,9/6/2014,
+-99,Citadel,234,Florida St.,9/6/2014,
+-99,Savannah St.,253,Ga. Southern,9/6/2014,
+255,Georgia Tech,718,Tulane,9/6/2014,@
+-99,Grambling St.,288,Houston,9/6/2014,
+772,Western Ky.,301,Illinois,9/6/2014,
+47,Ball St.,312,Iowa,9/6/2014,
+-99,Southeast Missouri St.,328,Kansas,9/6/2014,
+327,Kansas St.,311,Iowa St.,9/6/2014,@
+519,Ohio,334,Kentucky,9/6/2014,
+-99,Sam Houston St.,365,LSU,9/6/2014,
+366,Louisiana Tech,671,UL Lafayette,9/6/2014,@
+295,Idaho,498,La.-Monroe,9/6/2014,
+-99,Murray St.,367,Louisville,9/6/2014,
+-99,Rhode Island,388,Marshall,9/6/2014,
+392,Maryland,651,South Fla.,9/6/2014,@
+-99,Florida A&M,415,Miami (FL),9/6/2014,
+419,Middle Tenn.,428,Minnesota,9/6/2014,
+736,Vanderbilt,433,Ole Miss,9/6/2014,
+-99,Alabama-Birmingham,430,Mississippi St.,9/6/2014,
+434,Missouri,709,Toledo,9/6/2014,@
+726,Navy,690,Temple,9/6/2014,@
+-99,McNeese St.,463,Nebraska,9/6/2014,
+-99,Northern Colorado,465,UNLV,9/6/2014,
+472,New Mexico St.,254,Georgia St.,9/6/2014,@
+626,San Diego St.,457,North Carolina,9/6/2014,
+523,Old Dominion,490,North Carolina St.,9/6/2014,
+663,SMU,497,North Texas,9/6/2014,
+503,Northern Ill.,509,Northwestern,9/6/2014,@
+418,Michigan,513,Notre Dame,9/6/2014,
+522,Oklahoma,719,Tulsa,9/6/2014,@
+-99,Missouri St.,521,Oklahoma St.,9/6/2014,
+416,Michigan St.,529,Oregon,9/6/2014,
+528,Oregon St.,277,Hawaii,9/6/2014,@
+5,Akron,539,Penn St.,9/6/2014,
+-99,Howard,587,Rutgers,9/6/2014,
+646,South Ala.,331,Kent St.,9/6/2014,@
+196,East Carolina,648,South Carolina,9/6/2014,
+657,Southern California,674,Stanford,9/6/2014,@
+-99,Alcorn St.,664,Southern Miss.,9/6/2014,
+30,Arkansas St.,694,Tennessee,9/6/2014,
+-99,Lamar,697,Texas A&M,9/6/2014,
+700,Texas Tech,704,UTEP,9/6/2014,@
+404,Memphis,110,UCLA,9/6/2014,
+96,Fresno St.,732,Utah,9/6/2014,
+-99,Idaho St.,731,Utah St.,9/6/2014,
+-99,Richmond,746,Virginia,9/6/2014,
+742,Virginia Tech,518,Ohio St.,9/6/2014,@
+-99,Gardner-Webb,749,Wake Forest,9/6/2014,
+-99,Eastern Washington,756,Washington,9/6/2014,
+-99,Towson,768,West Virginia,9/6/2014,
+-99,Western Illinois,796,Wisconsin,9/6/2014,
+77,BYU,288,Houston,9/11/2014,
+497,North Texas,366,Louisiana Tech,9/11/2014,@
+288,Houston,77,BYU,9/11/2014,
+366,Louisiana Tech,497,North Texas,9/11/2014,@
+86,Buffalo,51,Baylor,9/12/2014,@
+140,Cincinnati,709,Toledo,9/12/2014,
+51,Baylor,86,Buffalo,9/12/2014,@
+709,Toledo,140,Cincinnati,9/12/2014,
+716,Troy,-99,Abilene Christian,9/13/2014,@
+254,Georgia St.,721,Air Force,9/13/2014,@
+8,Alabama,664,Southern Miss.,9/13/2014,
+-99,Alabama-Birmingham,-99,Alabama A&M,9/13/2014,
+157,Colorado,28,Arizona St.,9/13/2014,@
+700,Texas Tech,31,Arkansas,9/13/2014,@
+164,UConn,66,Boise St.,9/13/2014,@
+67,Boston College,657,Southern California,9/13/2014,
+71,Bowling Green,306,Indiana,9/13/2014,
+193,Duke,328,Kansas,9/13/2014,
+742,Virginia Tech,196,East Carolina,9/13/2014,@
+235,Florida,334,Kentucky,9/13/2014,
+229,Fla. Atlantic,719,Tulsa,9/13/2014,
+255,Georgia Tech,253,Ga. Southern,9/13/2014,
+277,Hawaii,-99,Northern Iowa,9/13/2014,
+47,Ball St.,-99,Indiana St.,9/13/2014,@
+312,Iowa,311,Iowa St.,9/13/2014,@
+365,LSU,498,La.-Monroe,9/13/2014,
+388,Marshall,519,Ohio,9/13/2014,
+415,Miami (FL),30,Arkansas St.,9/13/2014,
+418,Michigan,414,Miami (OH),9/13/2014,
+419,Middle Tenn.,772,Western Ky.,9/13/2014,
+433,Ole Miss,671,UL Lafayette,9/13/2014,
+646,South Ala.,430,Mississippi St.,9/13/2014,@
+434,Missouri,128,UCF,9/13/2014,
+670,Texas St.,726,Navy,9/13/2014,@
+96,Fresno St.,463,Nebraska,9/13/2014,@
+651,South Fla.,490,North Carolina St.,9/13/2014,@
+465,UNLV,503,Northern Ill.,9/13/2014,@
+513,Notre Dame,559,Purdue,9/13/2014,
+518,Ohio St.,331,Kent St.,9/13/2014,
+522,Oklahoma,694,Tennessee,9/13/2014,
+521,Oklahoma St.,706,UTSA,9/13/2014,
+523,Old Dominion,204,Eastern Mich.,9/13/2014,
+529,Oregon,811,Wyoming,9/13/2014,
+587,Rutgers,539,Penn St.,9/13/2014,@
+231,FIU,545,Pittsburgh,9/13/2014,@
+648,South Carolina,257,Georgia,9/13/2014,
+674,Stanford,725,Army West Point,9/13/2014,
+129,Central Mich.,688,Syracuse,9/13/2014,@
+697,Texas A&M,574,Rice,9/13/2014,
+698,TCU,428,Minnesota,9/13/2014,
+704,UTEP,472,New Mexico St.,9/13/2014,
+718,Tulane,-99,Southeastern Louisiana,9/13/2014,
+110,UCLA,703,Texas,9/13/2014,
+731,Utah St.,749,Wake Forest,9/13/2014,
+736,Vanderbilt,400,Massachusetts,9/13/2014,
+746,Virginia,367,Louisville,9/13/2014,
+756,Washington,301,Illinois,9/13/2014,
+754,Washington St.,-99,Portland St.,9/13/2014,
+392,Maryland,768,West Virginia,9/13/2014,@
+295,Idaho,774,Western Mich.,9/13/2014,@
+29,Arizona,466,Nevada,9/13/2014,
+66,Boise St.,164,UConn,9/13/2014,@
+721,Air Force,254,Georgia St.,9/13/2014,@
+156,Colorado St.,-99,California-Davis,9/13/2014,
+-99,Abilene Christian,716,Troy,9/13/2014,@
+664,Southern Miss.,8,Alabama,9/13/2014,
+-99,Alabama A&M,-99,Alabama-Birmingham,9/13/2014,
+466,Nevada,29,Arizona,9/13/2014,
+28,Arizona St.,157,Colorado,9/13/2014,@
+31,Arkansas,700,Texas Tech,9/13/2014,@
+657,Southern California,67,Boston College,9/13/2014,
+306,Indiana,71,Bowling Green,9/13/2014,
+-99,California-Davis,156,Colorado St.,9/13/2014,
+328,Kansas,193,Duke,9/13/2014,
+196,East Carolina,742,Virginia Tech,9/13/2014,@
+334,Kentucky,235,Florida,9/13/2014,
+719,Tulsa,229,Fla. Atlantic,9/13/2014,
+253,Ga. Southern,255,Georgia Tech,9/13/2014,
+-99,Northern Iowa,277,Hawaii,9/13/2014,
+-99,Indiana St.,47,Ball St.,9/13/2014,@
+311,Iowa St.,312,Iowa,9/13/2014,@
+498,La.-Monroe,365,LSU,9/13/2014,
+519,Ohio,388,Marshall,9/13/2014,
+30,Arkansas St.,415,Miami (FL),9/13/2014,
+414,Miami (OH),418,Michigan,9/13/2014,
+772,Western Ky.,419,Middle Tenn.,9/13/2014,
+671,UL Lafayette,433,Ole Miss,9/13/2014,
+430,Mississippi St.,646,South Ala.,9/13/2014,@
+128,UCF,434,Missouri,9/13/2014,
+726,Navy,670,Texas St.,9/13/2014,@
+463,Nebraska,96,Fresno St.,9/13/2014,@
+490,North Carolina St.,651,South Fla.,9/13/2014,@
+503,Northern Ill.,465,UNLV,9/13/2014,@
+559,Purdue,513,Notre Dame,9/13/2014,
+331,Kent St.,518,Ohio St.,9/13/2014,
+694,Tennessee,522,Oklahoma,9/13/2014,
+706,UTSA,521,Oklahoma St.,9/13/2014,
+204,Eastern Mich.,523,Old Dominion,9/13/2014,
+811,Wyoming,529,Oregon,9/13/2014,
+539,Penn St.,587,Rutgers,9/13/2014,@
+545,Pittsburgh,231,FIU,9/13/2014,@
+257,Georgia,648,South Carolina,9/13/2014,
+725,Army West Point,674,Stanford,9/13/2014,
+688,Syracuse,129,Central Mich.,9/13/2014,@
+574,Rice,697,Texas A&M,9/13/2014,
+428,Minnesota,698,TCU,9/13/2014,
+472,New Mexico St.,704,UTEP,9/13/2014,
+-99,Southeastern Louisiana,718,Tulane,9/13/2014,
+703,Texas,110,UCLA,9/13/2014,
+749,Wake Forest,731,Utah St.,9/13/2014,
+400,Massachusetts,736,Vanderbilt,9/13/2014,
+367,Louisville,746,Virginia,9/13/2014,
+301,Illinois,756,Washington,9/13/2014,
+-99,Portland St.,754,Washington St.,9/13/2014,
+768,West Virginia,392,Maryland,9/13/2014,@
+774,Western Mich.,295,Idaho,9/13/2014,@
+327,Kansas St.,37,Auburn,9/18/2014,@
+37,Auburn,327,Kansas St.,9/18/2014,@
+651,South Fla.,164,UConn,9/19/2014,
+164,UConn,651,South Fla.,9/19/2014,
+8,Alabama,235,Florida,9/20/2014,
+31,Arkansas,503,Northern Ill.,9/20/2014,
+30,Arkansas St.,731,Utah St.,9/20/2014,
+67,Boston College,-99,Maine,9/20/2014,
+77,BYU,746,Virginia,9/20/2014,
+86,Buffalo,-99,Norfolk St.,9/20/2014,
+128,UCF,-99,Bethune-Cookman,9/20/2014,
+140,Cincinnati,414,Miami (OH),9/20/2014,
+157,Colorado,277,Hawaii,9/20/2014,
+193,Duke,718,Tulane,9/20/2014,
+196,East Carolina,457,North Carolina,9/20/2014,
+234,Florida St.,147,Clemson,9/20/2014,
+96,Fresno St.,-99,Southern Utah,9/20/2014,
+257,Georgia,716,Troy,9/20/2014,
+646,South Ala.,253,Ga. Southern,9/20/2014,@
+742,Virginia Tech,255,Georgia Tech,9/20/2014,@
+288,Houston,465,UNLV,9/20/2014,
+301,Illinois,670,Texas St.,9/20/2014,
+434,Missouri,306,Indiana,9/20/2014,@
+545,Pittsburgh,312,Iowa,9/20/2014,@
+328,Kansas,129,Central Mich.,9/20/2014,
+231,FIU,367,Louisville,9/20/2014,@
+5,Akron,388,Marshall,9/20/2014,@
+688,Syracuse,392,Maryland,9/20/2014,@
+404,Memphis,419,Middle Tenn.,9/20/2014,
+416,Michigan St.,204,Eastern Mich.,9/20/2014,
+428,Minnesota,630,San Jose St.,9/20/2014,
+365,LSU,430,Mississippi St.,9/20/2014,@
+463,Nebraska,415,Miami (FL),9/20/2014,
+472,New Mexico St.,473,New Mexico,9/20/2014,@
+490,North Carolina St.,-99,Presbyterian,9/20/2014,
+497,North Texas,-99,Nicholls St.,9/20/2014,
+509,Northwestern,-99,Western Illinois,9/20/2014,
+366,Louisiana Tech,-99,Northwestern St.,9/20/2014,@
+519,Ohio,295,Idaho,9/20/2014,
+768,West Virginia,522,Oklahoma,9/20/2014,@
+574,Rice,523,Old Dominion,9/20/2014,@
+754,Washington St.,529,Oregon,9/20/2014,@
+528,Oregon St.,626,San Diego St.,9/20/2014,
+539,Penn St.,400,Massachusetts,9/20/2014,
+559,Purdue,-99,Southern Illinois,9/20/2014,
+726,Navy,587,Rutgers,9/20/2014,@
+736,Vanderbilt,648,South Carolina,9/20/2014,@
+664,Southern Miss.,27,Appalachian St.,9/20/2014,
+690,Temple,-99,Delaware St.,9/20/2014,
+663,SMU,697,Texas A&M,9/20/2014,@
+709,Toledo,47,Ball St.,9/20/2014,
+418,Michigan,732,Utah,9/20/2014,@
+749,Wake Forest,725,Army West Point,9/20/2014,
+756,Washington,254,Georgia St.,9/20/2014,
+774,Western Mich.,-99,Murray St.,9/20/2014,
+796,Wisconsin,71,Bowling Green,9/20/2014,
+811,Wyoming,229,Fla. Atlantic,9/20/2014,
+473,New Mexico,472,New Mexico St.,9/20/2014,@
+29,Arizona,107,California,9/20/2014,
+66,Boise St.,671,UL Lafayette,9/20/2014,
+235,Florida,8,Alabama,9/20/2014,
+107,California,29,Arizona,9/20/2014,
+503,Northern Ill.,31,Arkansas,9/20/2014,
+731,Utah St.,30,Arkansas St.,9/20/2014,
+671,UL Lafayette,66,Boise St.,9/20/2014,
+-99,Maine,67,Boston College,9/20/2014,
+746,Virginia,77,BYU,9/20/2014,
+-99,Norfolk St.,86,Buffalo,9/20/2014,
+-99,Bethune-Cookman,128,UCF,9/20/2014,
+414,Miami (OH),140,Cincinnati,9/20/2014,
+277,Hawaii,157,Colorado,9/20/2014,
+718,Tulane,193,Duke,9/20/2014,
+457,North Carolina,196,East Carolina,9/20/2014,
+147,Clemson,234,Florida St.,9/20/2014,
+-99,Southern Utah,96,Fresno St.,9/20/2014,
+716,Troy,257,Georgia,9/20/2014,
+253,Ga. Southern,646,South Ala.,9/20/2014,@
+255,Georgia Tech,742,Virginia Tech,9/20/2014,@
+465,UNLV,288,Houston,9/20/2014,
+670,Texas St.,301,Illinois,9/20/2014,
+306,Indiana,434,Missouri,9/20/2014,@
+312,Iowa,545,Pittsburgh,9/20/2014,@
+129,Central Mich.,328,Kansas,9/20/2014,
+367,Louisville,231,FIU,9/20/2014,@
+388,Marshall,5,Akron,9/20/2014,@
+392,Maryland,688,Syracuse,9/20/2014,@
+419,Middle Tenn.,404,Memphis,9/20/2014,
+204,Eastern Mich.,416,Michigan St.,9/20/2014,
+630,San Jose St.,428,Minnesota,9/20/2014,
+430,Mississippi St.,365,LSU,9/20/2014,@
+415,Miami (FL),463,Nebraska,9/20/2014,
+-99,Presbyterian,490,North Carolina St.,9/20/2014,
+-99,Nicholls St.,497,North Texas,9/20/2014,
+-99,Western Illinois,509,Northwestern,9/20/2014,
+-99,Northwestern St.,366,Louisiana Tech,9/20/2014,@
+295,Idaho,519,Ohio,9/20/2014,
+522,Oklahoma,768,West Virginia,9/20/2014,@
+523,Old Dominion,574,Rice,9/20/2014,@
+529,Oregon,754,Washington St.,9/20/2014,@
+626,San Diego St.,528,Oregon St.,9/20/2014,
+400,Massachusetts,539,Penn St.,9/20/2014,
+-99,Southern Illinois,559,Purdue,9/20/2014,
+587,Rutgers,726,Navy,9/20/2014,@
+648,South Carolina,736,Vanderbilt,9/20/2014,@
+27,Appalachian St.,664,Southern Miss.,9/20/2014,
+-99,Delaware St.,690,Temple,9/20/2014,
+697,Texas A&M,663,SMU,9/20/2014,@
+47,Ball St.,709,Toledo,9/20/2014,
+732,Utah,418,Michigan,9/20/2014,@
+725,Army West Point,749,Wake Forest,9/20/2014,
+254,Georgia St.,756,Washington,9/20/2014,
+-99,Murray St.,774,Western Mich.,9/20/2014,
+71,Bowling Green,796,Wisconsin,9/20/2014,
+229,Fla. Atlantic,811,Wyoming,9/20/2014,
+253,Ga. Southern,27,Appalachian St.,9/25/2014,
+521,Oklahoma St.,700,Texas Tech,9/25/2014,
+28,Arizona St.,110,UCLA,9/25/2014,@
+27,Appalachian St.,253,Ga. Southern,9/25/2014,
+700,Texas Tech,521,Oklahoma St.,9/25/2014,
+110,UCLA,28,Arizona St.,9/25/2014,@
+523,Old Dominion,419,Middle Tenn.,9/26/2014,@
+473,New Mexico,96,Fresno St.,9/26/2014,@
+96,Fresno St.,473,New Mexico,9/26/2014,@
+419,Middle Tenn.,523,Old Dominion,9/26/2014,@
+545,Pittsburgh,5,Akron,9/27/2014,@
+37,Auburn,366,Louisiana Tech,9/27/2014,
+311,Iowa St.,51,Baylor,9/27/2014,@
+400,Massachusetts,71,Bowling Green,9/27/2014,@
+86,Buffalo,414,Miami (OH),9/27/2014,
+107,California,157,Colorado,9/27/2014,
+147,Clemson,457,North Carolina,9/27/2014,
+67,Boston College,156,Colorado St.,9/27/2014,@
+229,Fla. Atlantic,706,UTSA,9/27/2014,
+-99,Alabama-Birmingham,231,FIU,9/27/2014,@
+490,North Carolina St.,234,Florida St.,9/27/2014,@
+257,Georgia,694,Tennessee,9/27/2014,
+559,Purdue,312,Iowa,9/27/2014,@
+327,Kansas St.,704,UTEP,9/27/2014,
+334,Kentucky,736,Vanderbilt,9/27/2014,
+365,LSU,472,New Mexico St.,9/27/2014,
+498,La.-Monroe,716,Troy,9/27/2014,
+367,Louisville,749,Wake Forest,9/27/2014,
+306,Indiana,392,Maryland,9/27/2014,@
+415,Miami (FL),193,Duke,9/27/2014,
+416,Michigan St.,811,Wyoming,9/27/2014,
+418,Michigan,428,Minnesota,9/27/2014,@
+433,Ole Miss,404,Memphis,9/27/2014,
+648,South Carolina,434,Missouri,9/27/2014,@
+463,Nebraska,301,Illinois,9/27/2014,
+630,San Jose St.,466,Nevada,9/27/2014,@
+539,Penn St.,509,Northwestern,9/27/2014,@
+513,Notre Dame,688,Syracuse,9/27/2014,
+519,Ohio,-99,Eastern Illinois,9/27/2014,
+518,Ohio St.,140,Cincinnati,9/27/2014,
+664,Southern Miss.,574,Rice,9/27/2014,@
+587,Rutgers,718,Tulane,9/27/2014,
+626,San Diego St.,465,UNLV,9/27/2014,
+295,Idaho,646,South Ala.,9/27/2014,@
+657,Southern California,528,Oregon St.,9/27/2014,
+756,Washington,674,Stanford,9/27/2014,@
+164,UConn,690,Temple,9/27/2014,@
+328,Kansas,703,Texas,9/27/2014,@
+697,Texas A&M,31,Arkansas,9/27/2014,
+663,SMU,698,TCU,9/27/2014,@
+719,Tulsa,670,Texas St.,9/27/2014,@
+709,Toledo,129,Central Mich.,9/27/2014,
+746,Virginia,331,Kent St.,9/27/2014,
+742,Virginia Tech,774,Western Mich.,9/27/2014,
+732,Utah,754,Washington St.,9/27/2014,@
+726,Navy,772,Western Ky.,9/27/2014,@
+796,Wisconsin,651,South Fla.,9/27/2014,
+-99,Yale,725,Army West Point,9/27/2014,
+721,Air Force,66,Boise St.,9/27/2014,
+156,Colorado St.,67,Boston College,9/27/2014,@
+66,Boise St.,721,Air Force,9/27/2014,
+5,Akron,545,Pittsburgh,9/27/2014,@
+366,Louisiana Tech,37,Auburn,9/27/2014,
+51,Baylor,311,Iowa St.,9/27/2014,@
+71,Bowling Green,400,Massachusetts,9/27/2014,@
+414,Miami (OH),86,Buffalo,9/27/2014,
+157,Colorado,107,California,9/27/2014,
+457,North Carolina,147,Clemson,9/27/2014,
+706,UTSA,229,Fla. Atlantic,9/27/2014,
+231,FIU,-99,Alabama-Birmingham,9/27/2014,@
+234,Florida St.,490,North Carolina St.,9/27/2014,@
+694,Tennessee,257,Georgia,9/27/2014,
+312,Iowa,559,Purdue,9/27/2014,@
+704,UTEP,327,Kansas St.,9/27/2014,
+736,Vanderbilt,334,Kentucky,9/27/2014,
+472,New Mexico St.,365,LSU,9/27/2014,
+716,Troy,498,La.-Monroe,9/27/2014,
+749,Wake Forest,367,Louisville,9/27/2014,
+392,Maryland,306,Indiana,9/27/2014,@
+193,Duke,415,Miami (FL),9/27/2014,
+811,Wyoming,416,Michigan St.,9/27/2014,
+428,Minnesota,418,Michigan,9/27/2014,@
+404,Memphis,433,Ole Miss,9/27/2014,
+434,Missouri,648,South Carolina,9/27/2014,@
+301,Illinois,463,Nebraska,9/27/2014,
+466,Nevada,630,San Jose St.,9/27/2014,@
+509,Northwestern,539,Penn St.,9/27/2014,@
+688,Syracuse,513,Notre Dame,9/27/2014,
+-99,Eastern Illinois,519,Ohio,9/27/2014,
+140,Cincinnati,518,Ohio St.,9/27/2014,
+574,Rice,664,Southern Miss.,9/27/2014,@
+718,Tulane,587,Rutgers,9/27/2014,
+465,UNLV,626,San Diego St.,9/27/2014,
+646,South Ala.,295,Idaho,9/27/2014,@
+528,Oregon St.,657,Southern California,9/27/2014,
+674,Stanford,756,Washington,9/27/2014,@
+690,Temple,164,UConn,9/27/2014,@
+703,Texas,328,Kansas,9/27/2014,@
+31,Arkansas,697,Texas A&M,9/27/2014,
+698,TCU,663,SMU,9/27/2014,@
+670,Texas St.,719,Tulsa,9/27/2014,@
+129,Central Mich.,709,Toledo,9/27/2014,
+331,Kent St.,746,Virginia,9/27/2014,
+774,Western Mich.,742,Virginia Tech,9/27/2014,
+754,Washington St.,732,Utah,9/27/2014,@
+772,Western Ky.,726,Navy,9/27/2014,@
+651,South Fla.,796,Wisconsin,9/27/2014,
+725,Army West Point,-99,Yale,9/27/2014,
+529,Oregon,29,Arizona,10/2/2014,@
+288,Houston,128,UCF,10/2/2014,@
+231,FIU,229,Fla. Atlantic,10/2/2014,
+29,Arizona,529,Oregon,10/2/2014,@
+128,UCF,288,Houston,10/2/2014,@
+229,Fla. Atlantic,231,FIU,10/2/2014,
+96,Fresno St.,626,San Diego St.,10/3/2014,
+688,Syracuse,367,Louisville,10/3/2014,@
+77,BYU,731,Utah St.,10/3/2014,@
+626,San Diego St.,96,Fresno St.,10/3/2014,
+367,Louisville,688,Syracuse,10/3/2014,@
+731,Utah St.,77,BYU,10/3/2014,@
+5,Akron,204,Eastern Mich.,10/4/2014,
+772,Western Ky.,-99,Alabama-Birmingham,10/4/2014,@
+657,Southern California,28,Arizona St.,10/4/2014,@
+30,Arkansas St.,498,La.-Monroe,10/4/2014,
+725,Army West Point,47,Ball St.,10/4/2014,
+37,Auburn,365,LSU,10/4/2014,
+703,Texas,51,Baylor,10/4/2014,@
+466,Nevada,66,Boise St.,10/4/2014,@
+71,Bowling Green,86,Buffalo,10/4/2014,
+754,Washington St.,107,California,10/4/2014,@
+129,Central Mich.,519,Ohio,10/4/2014,
+147,Clemson,490,North Carolina St.,10/4/2014,
+196,East Carolina,663,SMU,10/4/2014,
+694,Tennessee,235,Florida,10/4/2014,@
+234,Florida St.,749,Wake Forest,10/4/2014,
+257,Georgia,736,Vanderbilt,10/4/2014,
+472,New Mexico St.,253,Ga. Southern,10/4/2014,@
+255,Georgia Tech,415,Miami (FL),10/4/2014,
+306,Indiana,497,North Texas,10/4/2014,
+327,Kansas St.,700,Texas Tech,10/4/2014,
+334,Kentucky,648,South Carolina,10/4/2014,
+366,Louisiana Tech,704,UTEP,10/4/2014,
+671,UL Lafayette,254,Georgia St.,10/4/2014,
+523,Old Dominion,388,Marshall,10/4/2014,@
+404,Memphis,140,Cincinnati,10/4/2014,
+414,Miami (OH),400,Massachusetts,10/4/2014,
+416,Michigan St.,463,Nebraska,10/4/2014,
+419,Middle Tenn.,664,Southern Miss.,10/4/2014,
+433,Ole Miss,8,Alabama,10/4/2014,
+430,Mississippi St.,697,Texas A&M,10/4/2014,
+706,UTSA,473,New Mexico,10/4/2014,@
+503,Northern Ill.,331,Kent St.,10/4/2014,
+509,Northwestern,796,Wisconsin,10/4/2014,
+513,Notre Dame,674,Stanford,10/4/2014,
+392,Maryland,518,Ohio St.,10/4/2014,@
+521,Oklahoma St.,311,Iowa St.,10/4/2014,
+157,Colorado,528,Oregon St.,10/4/2014,@
+301,Illinois,559,Purdue,10/4/2014,@
+574,Rice,277,Hawaii,10/4/2014,
+587,Rutgers,418,Michigan,10/4/2014,
+630,San Jose St.,465,UNLV,10/4/2014,
+27,Appalachian St.,646,South Ala.,10/4/2014,@
+698,TCU,522,Oklahoma,10/4/2014,
+670,Texas St.,295,Idaho,10/4/2014,
+774,Western Mich.,709,Toledo,10/4/2014,@
+110,UCLA,732,Utah,10/4/2014,@
+746,Virginia,545,Pittsburgh,10/4/2014,
+457,North Carolina,742,Virginia Tech,10/4/2014,@
+768,West Virginia,328,Kansas,10/4/2014,
+156,Colorado St.,719,Tulsa,10/4/2014,
+473,New Mexico,706,UTSA,10/4/2014,@
+721,Air Force,726,Navy,10/4/2014,
+66,Boise St.,466,Nevada,10/4/2014,@
+726,Navy,721,Air Force,10/4/2014,
+204,Eastern Mich.,5,Akron,10/4/2014,
+-99,Alabama-Birmingham,772,Western Ky.,10/4/2014,@
+28,Arizona St.,657,Southern California,10/4/2014,@
+498,La.-Monroe,30,Arkansas St.,10/4/2014,
+47,Ball St.,725,Army West Point,10/4/2014,
+365,LSU,37,Auburn,10/4/2014,
+51,Baylor,703,Texas,10/4/2014,@
+86,Buffalo,71,Bowling Green,10/4/2014,
+107,California,754,Washington St.,10/4/2014,@
+519,Ohio,129,Central Mich.,10/4/2014,
+490,North Carolina St.,147,Clemson,10/4/2014,
+719,Tulsa,156,Colorado St.,10/4/2014,
+663,SMU,196,East Carolina,10/4/2014,
+235,Florida,694,Tennessee,10/4/2014,@
+749,Wake Forest,234,Florida St.,10/4/2014,
+736,Vanderbilt,257,Georgia,10/4/2014,
+253,Ga. Southern,472,New Mexico St.,10/4/2014,@
+415,Miami (FL),255,Georgia Tech,10/4/2014,
+497,North Texas,306,Indiana,10/4/2014,
+700,Texas Tech,327,Kansas St.,10/4/2014,
+648,South Carolina,334,Kentucky,10/4/2014,
+704,UTEP,366,Louisiana Tech,10/4/2014,
+254,Georgia St.,671,UL Lafayette,10/4/2014,
+388,Marshall,523,Old Dominion,10/4/2014,@
+140,Cincinnati,404,Memphis,10/4/2014,
+400,Massachusetts,414,Miami (OH),10/4/2014,
+463,Nebraska,416,Michigan St.,10/4/2014,
+664,Southern Miss.,419,Middle Tenn.,10/4/2014,
+8,Alabama,433,Ole Miss,10/4/2014,
+697,Texas A&M,430,Mississippi St.,10/4/2014,
+331,Kent St.,503,Northern Ill.,10/4/2014,
+796,Wisconsin,509,Northwestern,10/4/2014,
+674,Stanford,513,Notre Dame,10/4/2014,
+518,Ohio St.,392,Maryland,10/4/2014,@
+311,Iowa St.,521,Oklahoma St.,10/4/2014,
+528,Oregon St.,157,Colorado,10/4/2014,@
+559,Purdue,301,Illinois,10/4/2014,@
+277,Hawaii,574,Rice,10/4/2014,
+418,Michigan,587,Rutgers,10/4/2014,
+465,UNLV,630,San Jose St.,10/4/2014,
+646,South Ala.,27,Appalachian St.,10/4/2014,@
+522,Oklahoma,698,TCU,10/4/2014,
+295,Idaho,670,Texas St.,10/4/2014,
+709,Toledo,774,Western Mich.,10/4/2014,@
+732,Utah,110,UCLA,10/4/2014,@
+545,Pittsburgh,746,Virginia,10/4/2014,
+742,Virginia Tech,457,North Carolina,10/4/2014,@
+328,Kansas,768,West Virginia,10/4/2014,
+128,UCF,77,BYU,10/9/2014,
+77,BYU,128,UCF,10/9/2014,
+465,UNLV,96,Fresno St.,10/10/2014,
+674,Stanford,754,Washington St.,10/10/2014,
+473,New Mexico,626,San Diego St.,10/10/2014,@
+96,Fresno St.,465,UNLV,10/10/2014,
+626,San Diego St.,473,New Mexico,10/10/2014,@
+754,Washington St.,674,Stanford,10/10/2014,
+5,Akron,414,Miami (OH),10/11/2014,
+31,Arkansas,8,Alabama,10/11/2014,@
+-99,Alabama-Birmingham,497,North Texas,10/11/2014,
+254,Georgia St.,30,Arkansas St.,10/11/2014,@
+51,Baylor,698,TCU,10/11/2014,
+490,North Carolina St.,67,Boston College,10/11/2014,@
+519,Ohio,71,Bowling Green,10/11/2014,@
+503,Northern Ill.,129,Central Mich.,10/11/2014,@
+147,Clemson,367,Louisville,10/11/2014,
+466,Nevada,156,Colorado St.,10/11/2014,@
+255,Georgia Tech,193,Duke,10/11/2014,@
+651,South Fla.,196,East Carolina,10/11/2014,@
+204,Eastern Mich.,86,Buffalo,10/11/2014,
+688,Syracuse,234,Florida St.,10/11/2014,@
+434,Missouri,257,Georgia,10/11/2014,@
+253,Ga. Southern,295,Idaho,10/11/2014,
+277,Hawaii,811,Wyoming,10/11/2014,
+404,Memphis,288,Houston,10/11/2014,@
+312,Iowa,306,Indiana,10/11/2014,
+311,Iowa St.,709,Toledo,10/11/2014,
+334,Kentucky,498,La.-Monroe,10/11/2014,
+27,Appalachian St.,-99,Liberty,10/11/2014,@
+235,Florida,365,LSU,10/11/2014,@
+388,Marshall,419,Middle Tenn.,10/11/2014,
+331,Kent St.,400,Massachusetts,10/11/2014,@
+415,Miami (FL),140,Cincinnati,10/11/2014,
+418,Michigan,539,Penn St.,10/11/2014,
+559,Purdue,416,Michigan St.,10/11/2014,@
+428,Minnesota,509,Northwestern,10/11/2014,
+697,Texas A&M,433,Ole Miss,10/11/2014,@
+430,Mississippi St.,37,Auburn,10/11/2014,
+726,Navy,-99,Virginia Military Institute,10/11/2014,
+513,Notre Dame,457,North Carolina,10/11/2014,
+522,Oklahoma,703,Texas,10/11/2014,
+328,Kansas,521,Oklahoma St.,10/11/2014,@
+110,UCLA,529,Oregon,10/11/2014,@
+725,Army West Point,574,Rice,10/11/2014,@
+690,Temple,719,Tulsa,10/11/2014,
+694,Tennessee,-99,Chattanooga,10/11/2014,
+704,UTEP,523,Old Dominion,10/11/2014,
+706,UTSA,231,FIU,10/11/2014,
+716,Troy,472,New Mexico St.,10/11/2014,
+718,Tulane,164,UConn,10/11/2014,
+731,Utah St.,721,Air Force,10/11/2014,
+736,Vanderbilt,-99,Charleston Southern,10/11/2014,
+107,California,756,Washington,10/11/2014,@
+700,Texas Tech,768,West Virginia,10/11/2014,@
+47,Ball St.,774,Western Mich.,10/11/2014,@
+796,Wisconsin,301,Illinois,10/11/2014,
+156,Colorado St.,466,Nevada,10/11/2014,@
+29,Arizona,657,Southern California,10/11/2014,@
+721,Air Force,731,Utah St.,10/11/2014,
+414,Miami (OH),5,Akron,10/11/2014,
+8,Alabama,31,Arkansas,10/11/2014,@
+497,North Texas,-99,Alabama-Birmingham,10/11/2014,
+30,Arkansas St.,254,Georgia St.,10/11/2014,@
+698,TCU,51,Baylor,10/11/2014,
+67,Boston College,490,North Carolina St.,10/11/2014,@
+71,Bowling Green,519,Ohio,10/11/2014,@
+129,Central Mich.,503,Northern Ill.,10/11/2014,@
+367,Louisville,147,Clemson,10/11/2014,
+193,Duke,255,Georgia Tech,10/11/2014,@
+196,East Carolina,651,South Fla.,10/11/2014,@
+86,Buffalo,204,Eastern Mich.,10/11/2014,
+234,Florida St.,688,Syracuse,10/11/2014,@
+257,Georgia,434,Missouri,10/11/2014,@
+295,Idaho,253,Ga. Southern,10/11/2014,
+811,Wyoming,277,Hawaii,10/11/2014,
+288,Houston,404,Memphis,10/11/2014,@
+306,Indiana,312,Iowa,10/11/2014,
+709,Toledo,311,Iowa St.,10/11/2014,
+498,La.-Monroe,334,Kentucky,10/11/2014,
+-99,Liberty,27,Appalachian St.,10/11/2014,@
+365,LSU,235,Florida,10/11/2014,@
+419,Middle Tenn.,388,Marshall,10/11/2014,
+400,Massachusetts,331,Kent St.,10/11/2014,@
+140,Cincinnati,415,Miami (FL),10/11/2014,
+539,Penn St.,418,Michigan,10/11/2014,
+416,Michigan St.,559,Purdue,10/11/2014,@
+509,Northwestern,428,Minnesota,10/11/2014,
+433,Ole Miss,697,Texas A&M,10/11/2014,@
+37,Auburn,430,Mississippi St.,10/11/2014,
+-99,Virginia Military Institute,726,Navy,10/11/2014,
+457,North Carolina,513,Notre Dame,10/11/2014,
+703,Texas,522,Oklahoma,10/11/2014,
+521,Oklahoma St.,328,Kansas,10/11/2014,@
+529,Oregon,110,UCLA,10/11/2014,@
+574,Rice,725,Army West Point,10/11/2014,@
+657,Southern California,29,Arizona,10/11/2014,@
+719,Tulsa,690,Temple,10/11/2014,
+-99,Chattanooga,694,Tennessee,10/11/2014,
+523,Old Dominion,704,UTEP,10/11/2014,
+231,FIU,706,UTSA,10/11/2014,
+472,New Mexico St.,716,Troy,10/11/2014,
+164,UConn,718,Tulane,10/11/2014,
+-99,Charleston Southern,736,Vanderbilt,10/11/2014,
+756,Washington,107,California,10/11/2014,@
+768,West Virginia,700,Texas Tech,10/11/2014,@
+774,Western Mich.,47,Ball St.,10/11/2014,@
+301,Illinois,796,Wisconsin,10/11/2014,
+670,Texas St.,671,UL Lafayette,10/14/2014,@
+671,UL Lafayette,670,Texas St.,10/14/2014,@
+545,Pittsburgh,742,Virginia Tech,10/16/2014,
+528,Oregon St.,732,Utah,10/16/2014,@
+742,Virginia Tech,545,Pittsburgh,10/16/2014,
+732,Utah,528,Oregon St.,10/16/2014,@
+288,Houston,690,Temple,10/17/2014,
+66,Boise St.,96,Fresno St.,10/17/2014,
+96,Fresno St.,66,Boise St.,10/17/2014,
+690,Temple,288,Houston,10/17/2014,
+8,Alabama,697,Texas A&M,10/18/2014,
+716,Troy,27,Appalachian St.,10/18/2014,@
+28,Arizona St.,674,Stanford,10/18/2014,
+129,Central Mich.,47,Ball St.,10/18/2014,@
+128,UCF,718,Tulane,10/18/2014,
+663,SMU,140,Cincinnati,10/18/2014,@
+67,Boston College,147,Clemson,10/18/2014,@
+193,Duke,746,Virginia,10/18/2014,
+229,Fla. Atlantic,772,Western Ky.,10/18/2014,
+234,Florida St.,513,Notre Dame,10/18/2014,
+257,Georgia,31,Arkansas,10/18/2014,
+295,Idaho,472,New Mexico St.,10/18/2014,
+522,Oklahoma,327,Kansas St.,10/18/2014,@
+331,Kent St.,725,Army West Point,10/18/2014,
+365,LSU,334,Kentucky,10/18/2014,
+366,Louisiana Tech,706,UTSA,10/18/2014,
+367,Louisville,490,North Carolina St.,10/18/2014,
+231,FIU,388,Marshall,10/18/2014,@
+392,Maryland,312,Iowa,10/18/2014,
+400,Massachusetts,204,Eastern Mich.,10/18/2014,
+306,Indiana,416,Michigan St.,10/18/2014,@
+419,Middle Tenn.,-99,Alabama-Birmingham,10/18/2014,
+428,Minnesota,559,Purdue,10/18/2014,
+433,Ole Miss,694,Tennessee,10/18/2014,
+235,Florida,434,Missouri,10/18/2014,@
+509,Northwestern,463,Nebraska,10/18/2014,@
+77,BYU,466,Nevada,10/18/2014,@
+457,North Carolina,255,Georgia Tech,10/18/2014,
+503,Northern Ill.,414,Miami (OH),10/18/2014,
+519,Ohio,5,Akron,10/18/2014,
+518,Ohio St.,587,Rutgers,10/18/2014,
+529,Oregon,756,Washington,10/18/2014,
+626,San Diego St.,277,Hawaii,10/18/2014,
+811,Wyoming,630,San Jose St.,10/18/2014,@
+646,South Ala.,254,Georgia St.,10/18/2014,
+648,South Carolina,-99,Furman,10/18/2014,
+719,Tulsa,651,South Fla.,10/18/2014,@
+657,Southern California,157,Colorado,10/18/2014,
+497,North Texas,664,Southern Miss.,10/18/2014,@
+749,Wake Forest,688,Syracuse,10/18/2014,@
+703,Texas,311,Iowa St.,10/18/2014,
+698,TCU,521,Oklahoma St.,10/18/2014,
+700,Texas Tech,328,Kansas,10/18/2014,
+107,California,110,UCLA,10/18/2014,@
+768,West Virginia,51,Baylor,10/18/2014,
+71,Bowling Green,774,Western Mich.,10/18/2014,@
+156,Colorado St.,731,Utah St.,10/18/2014,
+721,Air Force,473,New Mexico,10/18/2014,
+473,New Mexico,721,Air Force,10/18/2014,
+697,Texas A&M,8,Alabama,10/18/2014,
+27,Appalachian St.,716,Troy,10/18/2014,@
+674,Stanford,28,Arizona St.,10/18/2014,
+47,Ball St.,129,Central Mich.,10/18/2014,@
+718,Tulane,128,UCF,10/18/2014,
+140,Cincinnati,663,SMU,10/18/2014,@
+147,Clemson,67,Boston College,10/18/2014,@
+731,Utah St.,156,Colorado St.,10/18/2014,
+746,Virginia,193,Duke,10/18/2014,
+772,Western Ky.,229,Fla. Atlantic,10/18/2014,
+513,Notre Dame,234,Florida St.,10/18/2014,
+31,Arkansas,257,Georgia,10/18/2014,
+472,New Mexico St.,295,Idaho,10/18/2014,
+327,Kansas St.,522,Oklahoma,10/18/2014,@
+725,Army West Point,331,Kent St.,10/18/2014,
+334,Kentucky,365,LSU,10/18/2014,
+706,UTSA,366,Louisiana Tech,10/18/2014,
+490,North Carolina St.,367,Louisville,10/18/2014,
+388,Marshall,231,FIU,10/18/2014,@
+312,Iowa,392,Maryland,10/18/2014,
+204,Eastern Mich.,400,Massachusetts,10/18/2014,
+416,Michigan St.,306,Indiana,10/18/2014,@
+-99,Alabama-Birmingham,419,Middle Tenn.,10/18/2014,
+559,Purdue,428,Minnesota,10/18/2014,
+694,Tennessee,433,Ole Miss,10/18/2014,
+434,Missouri,235,Florida,10/18/2014,@
+463,Nebraska,509,Northwestern,10/18/2014,@
+466,Nevada,77,BYU,10/18/2014,@
+255,Georgia Tech,457,North Carolina,10/18/2014,
+414,Miami (OH),503,Northern Ill.,10/18/2014,
+5,Akron,519,Ohio,10/18/2014,
+587,Rutgers,518,Ohio St.,10/18/2014,
+756,Washington,529,Oregon,10/18/2014,
+277,Hawaii,626,San Diego St.,10/18/2014,
+630,San Jose St.,811,Wyoming,10/18/2014,@
+254,Georgia St.,646,South Ala.,10/18/2014,
+-99,Furman,648,South Carolina,10/18/2014,
+651,South Fla.,719,Tulsa,10/18/2014,@
+157,Colorado,657,Southern California,10/18/2014,
+664,Southern Miss.,497,North Texas,10/18/2014,@
+688,Syracuse,749,Wake Forest,10/18/2014,@
+311,Iowa St.,703,Texas,10/18/2014,
+521,Oklahoma St.,698,TCU,10/18/2014,
+328,Kansas,700,Texas Tech,10/18/2014,
+110,UCLA,107,California,10/18/2014,@
+51,Baylor,768,West Virginia,10/18/2014,
+774,Western Mich.,71,Bowling Green,10/18/2014,@
+671,UL Lafayette,30,Arkansas St.,10/21/2014,
+30,Arkansas St.,671,UL Lafayette,10/21/2014,
+196,East Carolina,164,UConn,10/23/2014,
+742,Virginia Tech,415,Miami (FL),10/23/2014,@
+164,UConn,196,East Carolina,10/23/2014,
+415,Miami (FL),742,Virginia Tech,10/23/2014,@
+140,Cincinnati,651,South Fla.,10/24/2014,
+529,Oregon,107,California,10/24/2014,
+646,South Ala.,716,Troy,10/24/2014,
+66,Boise St.,77,BYU,10/24/2014,
+77,BYU,66,Boise St.,10/24/2014,
+651,South Fla.,140,Cincinnati,10/24/2014,
+107,California,529,Oregon,10/24/2014,
+716,Troy,646,South Ala.,10/24/2014,
+694,Tennessee,8,Alabama,10/25/2014,@
+754,Washington St.,29,Arizona,10/25/2014,@
+756,Washington,28,Arizona St.,10/25/2014,@
+31,Arkansas,-99,Alabama-Birmingham,10/25/2014,
+37,Auburn,648,South Carolina,10/25/2014,
+47,Ball St.,5,Akron,10/25/2014,
+749,Wake Forest,67,Boston College,10/25/2014,@
+128,UCF,690,Temple,10/25/2014,
+86,Buffalo,129,Central Mich.,10/25/2014,@
+147,Clemson,688,Syracuse,10/25/2014,
+254,Georgia St.,253,Ga. Southern,10/25/2014,@
+545,Pittsburgh,255,Georgia Tech,10/25/2014,@
+301,Illinois,428,Minnesota,10/25/2014,
+327,Kansas St.,703,Texas,10/25/2014,
+365,LSU,433,Ole Miss,10/25/2014,
+664,Southern Miss.,366,Louisiana Tech,10/25/2014,@
+388,Marshall,229,Fla. Atlantic,10/25/2014,
+663,SMU,404,Memphis,10/25/2014,@
+414,Miami (OH),331,Kent St.,10/25/2014,
+416,Michigan St.,418,Michigan,10/25/2014,
+334,Kentucky,430,Mississippi St.,10/25/2014,@
+434,Missouri,736,Vanderbilt,10/25/2014,
+726,Navy,630,San Jose St.,10/25/2014,
+463,Nebraska,587,Rutgers,10/25/2014,
+277,Hawaii,466,Nevada,10/25/2014,@
+746,Virginia,457,North Carolina,10/25/2014,@
+204,Eastern Mich.,503,Northern Ill.,10/25/2014,@
+539,Penn St.,518,Ohio St.,10/25/2014,@
+574,Rice,497,North Texas,10/25/2014,
+674,Stanford,528,Oregon St.,10/25/2014,
+698,TCU,700,Texas Tech,10/25/2014,
+498,La.-Monroe,670,Texas St.,10/25/2014,@
+706,UTSA,704,UTEP,10/25/2014,@
+709,Toledo,400,Massachusetts,10/25/2014,
+157,Colorado,110,UCLA,10/25/2014,@
+732,Utah,657,Southern California,10/25/2014,
+731,Utah St.,465,UNLV,10/25/2014,
+521,Oklahoma St.,768,West Virginia,10/25/2014,@
+772,Western Ky.,523,Old Dominion,10/25/2014,
+774,Western Mich.,519,Ohio,10/25/2014,
+796,Wisconsin,392,Maryland,10/25/2014,
+29,Arizona,754,Washington St.,10/25/2014,@
+156,Colorado St.,811,Wyoming,10/25/2014,
+8,Alabama,694,Tennessee,10/25/2014,@
+28,Arizona St.,756,Washington,10/25/2014,@
+-99,Alabama-Birmingham,31,Arkansas,10/25/2014,
+648,South Carolina,37,Auburn,10/25/2014,
+5,Akron,47,Ball St.,10/25/2014,
+67,Boston College,749,Wake Forest,10/25/2014,@
+690,Temple,128,UCF,10/25/2014,
+129,Central Mich.,86,Buffalo,10/25/2014,@
+688,Syracuse,147,Clemson,10/25/2014,
+811,Wyoming,156,Colorado St.,10/25/2014,
+253,Ga. Southern,254,Georgia St.,10/25/2014,@
+255,Georgia Tech,545,Pittsburgh,10/25/2014,@
+428,Minnesota,301,Illinois,10/25/2014,
+703,Texas,327,Kansas St.,10/25/2014,
+433,Ole Miss,365,LSU,10/25/2014,
+366,Louisiana Tech,664,Southern Miss.,10/25/2014,@
+229,Fla. Atlantic,388,Marshall,10/25/2014,
+404,Memphis,663,SMU,10/25/2014,@
+331,Kent St.,414,Miami (OH),10/25/2014,
+418,Michigan,416,Michigan St.,10/25/2014,
+430,Mississippi St.,334,Kentucky,10/25/2014,@
+736,Vanderbilt,434,Missouri,10/25/2014,
+630,San Jose St.,726,Navy,10/25/2014,
+587,Rutgers,463,Nebraska,10/25/2014,
+466,Nevada,277,Hawaii,10/25/2014,@
+457,North Carolina,746,Virginia,10/25/2014,@
+503,Northern Ill.,204,Eastern Mich.,10/25/2014,@
+518,Ohio St.,539,Penn St.,10/25/2014,@
+497,North Texas,574,Rice,10/25/2014,
+528,Oregon St.,674,Stanford,10/25/2014,
+700,Texas Tech,698,TCU,10/25/2014,
+670,Texas St.,498,La.-Monroe,10/25/2014,@
+704,UTEP,706,UTSA,10/25/2014,@
+400,Massachusetts,709,Toledo,10/25/2014,
+110,UCLA,157,Colorado,10/25/2014,@
+657,Southern California,732,Utah,10/25/2014,
+465,UNLV,731,Utah St.,10/25/2014,
+768,West Virginia,521,Oklahoma St.,10/25/2014,@
+523,Old Dominion,772,Western Ky.,10/25/2014,
+519,Ohio,774,Western Mich.,10/25/2014,
+392,Maryland,796,Wisconsin,10/25/2014,
+367,Louisville,234,Florida St.,10/30/2014,@
+253,Ga. Southern,716,Troy,10/30/2014,
+234,Florida St.,367,Louisville,10/30/2014,@
+716,Troy,253,Ga. Southern,10/30/2014,
+718,Tulane,140,Cincinnati,10/31/2014,@
+404,Memphis,719,Tulsa,10/31/2014,
+140,Cincinnati,718,Tulane,10/31/2014,@
+719,Tulsa,404,Memphis,10/31/2014,
+725,Army West Point,721,Air Force,11/1/2014,@
+229,Fla. Atlantic,-99,Alabama-Birmingham,11/1/2014,@
+27,Appalachian St.,254,Georgia St.,11/1/2014,
+28,Arizona St.,732,Utah,11/1/2014,
+295,Idaho,30,Arkansas St.,11/1/2014,@
+433,Ole Miss,37,Auburn,11/1/2014,@
+51,Baylor,328,Kansas,11/1/2014,
+742,Virginia Tech,67,Boston College,11/1/2014,@
+419,Middle Tenn.,77,BYU,11/1/2014,@
+528,Oregon St.,107,California,11/1/2014,@
+204,Eastern Mich.,129,Central Mich.,11/1/2014,@
+630,San Jose St.,156,Colorado St.,11/1/2014,@
+164,UConn,128,UCF,11/1/2014,
+545,Pittsburgh,193,Duke,11/1/2014,@
+235,Florida,257,Georgia,11/1/2014,
+255,Georgia Tech,746,Virginia,11/1/2014,
+651,South Fla.,288,Houston,11/1/2014,@
+312,Iowa,509,Northwestern,11/1/2014,
+327,Kansas St.,521,Oklahoma St.,11/1/2014,
+366,Louisiana Tech,772,Western Ky.,11/1/2014,
+671,UL Lafayette,646,South Ala.,11/1/2014,
+539,Penn St.,392,Maryland,11/1/2014,@
+415,Miami (FL),457,North Carolina,11/1/2014,
+418,Michigan,306,Indiana,11/1/2014,
+430,Mississippi St.,31,Arkansas,11/1/2014,
+434,Missouri,334,Kentucky,11/1/2014,
+463,Nebraska,559,Purdue,11/1/2014,
+466,Nevada,626,San Diego St.,11/1/2014,
+465,UNLV,473,New Mexico,11/1/2014,@
+688,Syracuse,490,North Carolina St.,11/1/2014,@
+513,Notre Dame,726,Navy,11/1/2014,
+518,Ohio St.,301,Illinois,11/1/2014,
+311,Iowa St.,522,Oklahoma,11/1/2014,@
+529,Oregon,674,Stanford,11/1/2014,
+231,FIU,574,Rice,11/1/2014,@
+754,Washington St.,657,Southern California,11/1/2014,@
+690,Temple,196,East Carolina,11/1/2014,
+648,South Carolina,694,Tennessee,11/1/2014,@
+700,Texas Tech,703,Texas,11/1/2014,@
+697,Texas A&M,498,La.-Monroe,11/1/2014,
+768,West Virginia,698,TCU,11/1/2014,@
+472,New Mexico St.,670,Texas St.,11/1/2014,@
+704,UTEP,664,Southern Miss.,11/1/2014,
+110,UCLA,29,Arizona,11/1/2014,
+277,Hawaii,731,Utah St.,11/1/2014,@
+736,Vanderbilt,523,Old Dominion,11/1/2014,
+157,Colorado,756,Washington,11/1/2014,@
+414,Miami (OH),774,Western Mich.,11/1/2014,@
+587,Rutgers,796,Wisconsin,11/1/2014,@
+96,Fresno St.,811,Wyoming,11/1/2014,@
+29,Arizona,110,UCLA,11/1/2014,
+721,Air Force,725,Army West Point,11/1/2014,@
+156,Colorado St.,630,San Jose St.,11/1/2014,@
+473,New Mexico,465,UNLV,11/1/2014,@
+-99,Alabama-Birmingham,229,Fla. Atlantic,11/1/2014,@
+254,Georgia St.,27,Appalachian St.,11/1/2014,
+732,Utah,28,Arizona St.,11/1/2014,
+30,Arkansas St.,295,Idaho,11/1/2014,@
+37,Auburn,433,Ole Miss,11/1/2014,@
+328,Kansas,51,Baylor,11/1/2014,
+67,Boston College,742,Virginia Tech,11/1/2014,@
+77,BYU,419,Middle Tenn.,11/1/2014,@
+107,California,528,Oregon St.,11/1/2014,@
+129,Central Mich.,204,Eastern Mich.,11/1/2014,@
+128,UCF,164,UConn,11/1/2014,
+193,Duke,545,Pittsburgh,11/1/2014,@
+257,Georgia,235,Florida,11/1/2014,
+746,Virginia,255,Georgia Tech,11/1/2014,
+288,Houston,651,South Fla.,11/1/2014,@
+509,Northwestern,312,Iowa,11/1/2014,
+521,Oklahoma St.,327,Kansas St.,11/1/2014,
+772,Western Ky.,366,Louisiana Tech,11/1/2014,
+646,South Ala.,671,UL Lafayette,11/1/2014,
+392,Maryland,539,Penn St.,11/1/2014,@
+457,North Carolina,415,Miami (FL),11/1/2014,
+306,Indiana,418,Michigan,11/1/2014,
+31,Arkansas,430,Mississippi St.,11/1/2014,
+334,Kentucky,434,Missouri,11/1/2014,
+559,Purdue,463,Nebraska,11/1/2014,
+626,San Diego St.,466,Nevada,11/1/2014,
+490,North Carolina St.,688,Syracuse,11/1/2014,@
+726,Navy,513,Notre Dame,11/1/2014,
+301,Illinois,518,Ohio St.,11/1/2014,
+522,Oklahoma,311,Iowa St.,11/1/2014,@
+674,Stanford,529,Oregon,11/1/2014,
+574,Rice,231,FIU,11/1/2014,@
+657,Southern California,754,Washington St.,11/1/2014,@
+196,East Carolina,690,Temple,11/1/2014,
+694,Tennessee,648,South Carolina,11/1/2014,@
+703,Texas,700,Texas Tech,11/1/2014,@
+498,La.-Monroe,697,Texas A&M,11/1/2014,
+698,TCU,768,West Virginia,11/1/2014,@
+670,Texas St.,472,New Mexico St.,11/1/2014,@
+664,Southern Miss.,704,UTEP,11/1/2014,
+731,Utah St.,277,Hawaii,11/1/2014,@
+523,Old Dominion,736,Vanderbilt,11/1/2014,
+756,Washington,157,Colorado,11/1/2014,@
+774,Western Mich.,414,Miami (OH),11/1/2014,@
+796,Wisconsin,587,Rutgers,11/1/2014,@
+811,Wyoming,96,Fresno St.,11/1/2014,@
+5,Akron,71,Bowling Green,11/4/2014,@
+331,Kent St.,709,Toledo,11/4/2014,@
+71,Bowling Green,5,Akron,11/4/2014,@
+709,Toledo,331,Kent St.,11/4/2014,@
+47,Ball St.,503,Northern Ill.,11/5/2014,@
+519,Ohio,86,Buffalo,11/5/2014,
+503,Northern Ill.,47,Ball St.,11/5/2014,@
+86,Buffalo,519,Ohio,11/5/2014,
+749,Wake Forest,147,Clemson,11/6/2014,@
+147,Clemson,749,Wake Forest,11/6/2014,@
+690,Temple,404,Memphis,11/7/2014,@
+811,Wyoming,731,Utah St.,11/7/2014,@
+404,Memphis,690,Temple,11/7/2014,@
+731,Utah St.,811,Wyoming,11/7/2014,@
+465,UNLV,721,Air Force,11/8/2014,@
+365,LSU,8,Alabama,11/8/2014,@
+27,Appalachian St.,498,La.-Monroe,11/8/2014,
+28,Arizona St.,513,Notre Dame,11/8/2014,
+30,Arkansas St.,646,South Ala.,11/8/2014,
+725,Army West Point,164,UConn,11/8/2014,
+522,Oklahoma,51,Baylor,11/8/2014,@
+688,Syracuse,193,Duke,11/8/2014,@
+736,Vanderbilt,235,Florida,11/8/2014,@
+234,Florida St.,746,Virginia,11/8/2014,
+96,Fresno St.,630,San Jose St.,11/8/2014,
+334,Kentucky,257,Georgia,11/8/2014,@
+670,Texas St.,253,Ga. Southern,11/8/2014,@
+490,North Carolina St.,255,Georgia Tech,11/8/2014,@
+328,Kansas,311,Iowa St.,11/8/2014,
+-99,Alabama-Birmingham,366,Louisiana Tech,11/8/2014,@
+472,New Mexico St.,671,UL Lafayette,11/8/2014,@
+67,Boston College,367,Louisville,11/8/2014,@
+664,Southern Miss.,388,Marshall,11/8/2014,@
+509,Northwestern,418,Michigan,11/8/2014,@
+428,Minnesota,312,Iowa,11/8/2014,
+433,Ole Miss,-99,Presbyterian,11/8/2014,
+430,Mississippi St.,-99,Tennessee-Martin,11/8/2014,
+497,North Texas,229,Fla. Atlantic,11/8/2014,
+416,Michigan St.,518,Ohio St.,11/8/2014,@
+523,Old Dominion,231,FIU,11/8/2014,
+732,Utah,529,Oregon,11/8/2014,@
+306,Indiana,539,Penn St.,11/8/2014,@
+574,Rice,706,UTSA,11/8/2014,
+626,San Diego St.,295,Idaho,11/8/2014,
+703,Texas,768,West Virginia,11/8/2014,
+37,Auburn,697,Texas A&M,11/8/2014,@
+698,TCU,327,Kansas St.,11/8/2014,
+716,Troy,254,Georgia St.,11/8/2014,
+288,Houston,718,Tulane,11/8/2014,@
+719,Tulsa,663,SMU,11/8/2014,
+756,Washington,110,UCLA,11/8/2014,@
+528,Oregon St.,754,Washington St.,11/8/2014,@
+772,Western Ky.,704,UTEP,11/8/2014,
+559,Purdue,796,Wisconsin,11/8/2014,@
+66,Boise St.,473,New Mexico,11/8/2014,@
+29,Arizona,157,Colorado,11/8/2014,
+156,Colorado St.,277,Hawaii,11/8/2014,
+721,Air Force,465,UNLV,11/8/2014,@
+473,New Mexico,66,Boise St.,11/8/2014,@
+8,Alabama,365,LSU,11/8/2014,@
+498,La.-Monroe,27,Appalachian St.,11/8/2014,
+157,Colorado,29,Arizona,11/8/2014,
+513,Notre Dame,28,Arizona St.,11/8/2014,
+646,South Ala.,30,Arkansas St.,11/8/2014,
+164,UConn,725,Army West Point,11/8/2014,
+51,Baylor,522,Oklahoma,11/8/2014,@
+277,Hawaii,156,Colorado St.,11/8/2014,
+193,Duke,688,Syracuse,11/8/2014,@
+235,Florida,736,Vanderbilt,11/8/2014,@
+746,Virginia,234,Florida St.,11/8/2014,
+630,San Jose St.,96,Fresno St.,11/8/2014,
+257,Georgia,334,Kentucky,11/8/2014,@
+253,Ga. Southern,670,Texas St.,11/8/2014,@
+255,Georgia Tech,490,North Carolina St.,11/8/2014,@
+311,Iowa St.,328,Kansas,11/8/2014,
+366,Louisiana Tech,-99,Alabama-Birmingham,11/8/2014,@
+671,UL Lafayette,472,New Mexico St.,11/8/2014,@
+367,Louisville,67,Boston College,11/8/2014,@
+388,Marshall,664,Southern Miss.,11/8/2014,@
+418,Michigan,509,Northwestern,11/8/2014,@
+312,Iowa,428,Minnesota,11/8/2014,
+-99,Presbyterian,433,Ole Miss,11/8/2014,
+-99,Tennessee-Martin,430,Mississippi St.,11/8/2014,
+229,Fla. Atlantic,497,North Texas,11/8/2014,
+518,Ohio St.,416,Michigan St.,11/8/2014,@
+231,FIU,523,Old Dominion,11/8/2014,
+529,Oregon,732,Utah,11/8/2014,@
+539,Penn St.,306,Indiana,11/8/2014,@
+706,UTSA,574,Rice,11/8/2014,
+295,Idaho,626,San Diego St.,11/8/2014,
+768,West Virginia,703,Texas,11/8/2014,
+697,Texas A&M,37,Auburn,11/8/2014,@
+327,Kansas St.,698,TCU,11/8/2014,
+254,Georgia St.,716,Troy,11/8/2014,
+718,Tulane,288,Houston,11/8/2014,@
+663,SMU,719,Tulsa,11/8/2014,
+110,UCLA,756,Washington,11/8/2014,@
+754,Washington St.,528,Oregon St.,11/8/2014,@
+704,UTEP,772,Western Ky.,11/8/2014,
+796,Wisconsin,559,Purdue,11/8/2014,@
+86,Buffalo,5,Akron,11/11/2014,
+503,Northern Ill.,709,Toledo,11/11/2014,
+5,Akron,86,Buffalo,11/11/2014,
+709,Toledo,503,Northern Ill.,11/11/2014,
+71,Bowling Green,331,Kent St.,11/12/2014,
+400,Massachusetts,47,Ball St.,11/12/2014,
+331,Kent St.,71,Bowling Green,11/12/2014,
+47,Ball St.,400,Massachusetts,11/12/2014,
+140,Cincinnati,196,East Carolina,11/13/2014,
+657,Southern California,107,California,11/13/2014,
+706,UTSA,664,Southern Miss.,11/13/2014,
+196,East Carolina,140,Cincinnati,11/13/2014,
+107,California,657,Southern California,11/13/2014,
+664,Southern Miss.,706,UTSA,11/13/2014,
+128,UCF,719,Tulsa,11/14/2014,
+719,Tulsa,128,UCF,11/14/2014,
+8,Alabama,430,Mississippi St.,11/15/2014,
+30,Arkansas St.,27,Appalachian St.,11/15/2014,@
+31,Arkansas,365,LSU,11/15/2014,
+77,BYU,465,UNLV,11/15/2014,
+129,Central Mich.,414,Miami (OH),11/15/2014,
+231,FIU,419,Middle Tenn.,11/15/2014,
+415,Miami (FL),234,Florida St.,11/15/2014,@
+257,Georgia,37,Auburn,11/15/2014,
+255,Georgia Tech,147,Clemson,11/15/2014,
+630,San Jose St.,277,Hawaii,11/15/2014,@
+301,Illinois,312,Iowa,11/15/2014,@
+498,La.-Monroe,671,UL Lafayette,11/15/2014,@
+388,Marshall,574,Rice,11/15/2014,
+718,Tulane,404,Memphis,11/15/2014,@
+392,Maryland,416,Michigan St.,11/15/2014,@
+697,Texas A&M,434,Missouri,11/15/2014,@
+726,Navy,253,Ga. Southern,11/15/2014,
+457,North Carolina,545,Pittsburgh,11/15/2014,
+490,North Carolina St.,749,Wake Forest,11/15/2014,
+513,Notre Dame,509,Northwestern,11/15/2014,@
+513,Notre Dame,509,Northwestern,11/15/2014,@
+513,Notre Dame,509,Northwestern,11/15/2014,@
+513,Notre Dame,509,Northwestern,11/15/2014,@
+428,Minnesota,518,Ohio St.,11/15/2014,@
+700,Texas Tech,522,Oklahoma,11/15/2014,@
+528,Oregon St.,28,Arizona St.,11/15/2014,
+539,Penn St.,690,Temple,11/15/2014,
+587,Rutgers,306,Indiana,11/15/2014,
+646,South Ala.,670,Texas St.,11/15/2014,
+235,Florida,648,South Carolina,11/15/2014,@
+663,SMU,651,South Fla.,11/15/2014,@
+694,Tennessee,334,Kentucky,11/15/2014,
+521,Oklahoma St.,703,Texas,11/15/2014,@
+328,Kansas,698,TCU,11/15/2014,@
+704,UTEP,497,North Texas,11/15/2014,
+295,Idaho,716,Troy,11/15/2014,@
+674,Stanford,732,Utah,11/15/2014,@
+731,Utah St.,473,New Mexico,11/15/2014,
+193,Duke,742,Virginia Tech,11/15/2014,@
+772,Western Ky.,725,Army West Point,11/15/2014,
+774,Western Mich.,204,Eastern Mich.,11/15/2014,
+796,Wisconsin,463,Nebraska,11/15/2014,
+66,Boise St.,626,San Diego St.,11/15/2014,
+29,Arizona,756,Washington,11/15/2014,
+721,Air Force,466,Nevada,11/15/2014,
+473,New Mexico,731,Utah St.,11/15/2014,
+466,Nevada,721,Air Force,11/15/2014,
+430,Mississippi St.,8,Alabama,11/15/2014,
+27,Appalachian St.,30,Arkansas St.,11/15/2014,@
+756,Washington,29,Arizona,11/15/2014,
+365,LSU,31,Arkansas,11/15/2014,
+626,San Diego St.,66,Boise St.,11/15/2014,
+465,UNLV,77,BYU,11/15/2014,
+414,Miami (OH),129,Central Mich.,11/15/2014,
+419,Middle Tenn.,231,FIU,11/15/2014,
+234,Florida St.,415,Miami (FL),11/15/2014,@
+37,Auburn,257,Georgia,11/15/2014,
+147,Clemson,255,Georgia Tech,11/15/2014,
+277,Hawaii,630,San Jose St.,11/15/2014,@
+312,Iowa,301,Illinois,11/15/2014,@
+671,UL Lafayette,498,La.-Monroe,11/15/2014,@
+574,Rice,388,Marshall,11/15/2014,
+404,Memphis,718,Tulane,11/15/2014,@
+416,Michigan St.,392,Maryland,11/15/2014,@
+434,Missouri,697,Texas A&M,11/15/2014,@
+253,Ga. Southern,726,Navy,11/15/2014,
+545,Pittsburgh,457,North Carolina,11/15/2014,
+749,Wake Forest,490,North Carolina St.,11/15/2014,
+509,Northwestern,513,Notre Dame,11/15/2014,@
+509,Northwestern,513,Notre Dame,11/15/2014,@
+509,Northwestern,513,Notre Dame,11/15/2014,@
+509,Northwestern,513,Notre Dame,11/15/2014,@
+518,Ohio St.,428,Minnesota,11/15/2014,@
+522,Oklahoma,700,Texas Tech,11/15/2014,@
+28,Arizona St.,528,Oregon St.,11/15/2014,
+690,Temple,539,Penn St.,11/15/2014,
+306,Indiana,587,Rutgers,11/15/2014,
+670,Texas St.,646,South Ala.,11/15/2014,
+648,South Carolina,235,Florida,11/15/2014,@
+651,South Fla.,663,SMU,11/15/2014,@
+334,Kentucky,694,Tennessee,11/15/2014,
+703,Texas,521,Oklahoma St.,11/15/2014,@
+698,TCU,328,Kansas,11/15/2014,@
+497,North Texas,704,UTEP,11/15/2014,
+716,Troy,295,Idaho,11/15/2014,@
+732,Utah,674,Stanford,11/15/2014,@
+742,Virginia Tech,193,Duke,11/15/2014,@
+725,Army West Point,772,Western Ky.,11/15/2014,
+204,Eastern Mich.,774,Western Mich.,11/15/2014,
+463,Nebraska,796,Wisconsin,11/15/2014,
+5,Akron,400,Massachusetts,11/18/2014,
+519,Ohio,503,Northern Ill.,11/18/2014,@
+400,Massachusetts,5,Akron,11/18/2014,
+503,Northern Ill.,519,Ohio,11/18/2014,@
+709,Toledo,71,Bowling Green,11/19/2014,
+71,Bowling Green,709,Toledo,11/19/2014,
+768,West Virginia,327,Kansas St.,11/20/2014,@
+193,Duke,457,North Carolina,11/20/2014,@
+670,Texas St.,30,Arkansas St.,11/20/2014,
+327,Kansas St.,768,West Virginia,11/20/2014,@
+457,North Carolina,193,Duke,11/20/2014,@
+30,Arkansas St.,670,Texas St.,11/20/2014,
+574,Rice,704,UTEP,11/21/2014,
+626,San Diego St.,721,Air Force,11/21/2014,
+731,Utah St.,630,San Jose St.,11/21/2014,
+721,Air Force,626,San Diego St.,11/21/2014,
+704,UTEP,574,Rice,11/21/2014,
+630,San Jose St.,731,Utah St.,11/21/2014,
+8,Alabama,-99,Western Carolina,11/22/2014,
+671,UL Lafayette,27,Appalachian St.,11/22/2014,@
+732,Utah,29,Arizona,11/22/2014,@
+28,Arizona St.,754,Washington St.,11/22/2014,
+31,Arkansas,433,Ole Miss,11/22/2014,
+725,Army West Point,-99,Fordham,11/22/2014,
+37,Auburn,-99,Samford,11/22/2014,
+47,Ball St.,204,Eastern Mich.,11/22/2014,
+51,Baylor,521,Oklahoma St.,11/22/2014,
+811,Wyoming,66,Boise St.,11/22/2014,@
+77,BYU,-99,Savannah St.,11/22/2014,
+128,UCF,663,SMU,11/22/2014,
+164,UConn,140,Cincinnati,11/22/2014,@
+147,Clemson,254,Georgia St.,11/22/2014,
+196,East Carolina,718,Tulane,11/22/2014,
+235,Florida,-99,Eastern Kentucky,11/22/2014,
+234,Florida St.,67,Boston College,11/22/2014,
+466,Nevada,96,Fresno St.,11/22/2014,@
+257,Georgia,-99,Charleston Southern,11/22/2014,
+277,Hawaii,465,UNLV,11/22/2014,
+288,Houston,719,Tulsa,11/22/2014,
+301,Illinois,539,Penn St.,11/22/2014,
+472,New Mexico St.,498,La.-Monroe,11/22/2014,@
+513,Notre Dame,367,Louisville,11/22/2014,@
+-99,Alabama-Birmingham,388,Marshall,11/22/2014,@
+418,Michigan,392,Maryland,11/22/2014,@
+404,Memphis,651,South Fla.,11/22/2014,
+416,Michigan St.,587,Rutgers,11/22/2014,
+419,Middle Tenn.,229,Fla. Atlantic,11/22/2014,
+463,Nebraska,428,Minnesota,11/22/2014,@
+430,Mississippi St.,736,Vanderbilt,11/22/2014,
+694,Tennessee,434,Missouri,11/22/2014,@
+497,North Texas,231,FIU,11/22/2014,
+559,Purdue,509,Northwestern,11/22/2014,@
+518,Ohio St.,306,Indiana,11/22/2014,
+522,Oklahoma,328,Kansas,11/22/2014,
+523,Old Dominion,366,Louisiana Tech,11/22/2014,
+529,Oregon,157,Colorado,11/22/2014,
+545,Pittsburgh,688,Syracuse,11/22/2014,
+648,South Carolina,646,South Ala.,11/22/2014,
+107,California,674,Stanford,11/22/2014,@
+311,Iowa St.,700,Texas Tech,11/22/2014,@
+110,UCLA,657,Southern California,11/22/2014,
+746,Virginia,415,Miami (FL),11/22/2014,
+749,Wake Forest,742,Virginia Tech,11/22/2014,
+756,Washington,528,Oregon St.,11/22/2014,
+772,Western Ky.,706,UTSA,11/22/2014,
+129,Central Mich.,774,Western Mich.,11/22/2014,@
+312,Iowa,796,Wisconsin,11/22/2014,@
+66,Boise St.,811,Wyoming,11/22/2014,@
+156,Colorado St.,473,New Mexico,11/22/2014,
+29,Arizona,732,Utah,11/22/2014,@
+473,New Mexico,156,Colorado St.,11/22/2014,
+-99,Western Carolina,8,Alabama,11/22/2014,
+27,Appalachian St.,671,UL Lafayette,11/22/2014,@
+754,Washington St.,28,Arizona St.,11/22/2014,
+433,Ole Miss,31,Arkansas,11/22/2014,
+-99,Fordham,725,Army West Point,11/22/2014,
+-99,Samford,37,Auburn,11/22/2014,
+204,Eastern Mich.,47,Ball St.,11/22/2014,
+521,Oklahoma St.,51,Baylor,11/22/2014,
+-99,Savannah St.,77,BYU,11/22/2014,
+663,SMU,128,UCF,11/22/2014,
+140,Cincinnati,164,UConn,11/22/2014,@
+254,Georgia St.,147,Clemson,11/22/2014,
+718,Tulane,196,East Carolina,11/22/2014,
+-99,Eastern Kentucky,235,Florida,11/22/2014,
+67,Boston College,234,Florida St.,11/22/2014,
+96,Fresno St.,466,Nevada,11/22/2014,@
+-99,Charleston Southern,257,Georgia,11/22/2014,
+465,UNLV,277,Hawaii,11/22/2014,
+719,Tulsa,288,Houston,11/22/2014,
+539,Penn St.,301,Illinois,11/22/2014,
+498,La.-Monroe,472,New Mexico St.,11/22/2014,@
+367,Louisville,513,Notre Dame,11/22/2014,@
+388,Marshall,-99,Alabama-Birmingham,11/22/2014,@
+392,Maryland,418,Michigan,11/22/2014,@
+651,South Fla.,404,Memphis,11/22/2014,
+587,Rutgers,416,Michigan St.,11/22/2014,
+229,Fla. Atlantic,419,Middle Tenn.,11/22/2014,
+428,Minnesota,463,Nebraska,11/22/2014,@
+736,Vanderbilt,430,Mississippi St.,11/22/2014,
+434,Missouri,694,Tennessee,11/22/2014,@
+231,FIU,497,North Texas,11/22/2014,
+509,Northwestern,559,Purdue,11/22/2014,@
+306,Indiana,518,Ohio St.,11/22/2014,
+328,Kansas,522,Oklahoma,11/22/2014,
+366,Louisiana Tech,523,Old Dominion,11/22/2014,
+157,Colorado,529,Oregon,11/22/2014,
+688,Syracuse,545,Pittsburgh,11/22/2014,
+646,South Ala.,648,South Carolina,11/22/2014,
+674,Stanford,107,California,11/22/2014,@
+700,Texas Tech,311,Iowa St.,11/22/2014,@
+657,Southern California,110,UCLA,11/22/2014,
+415,Miami (FL),746,Virginia,11/22/2014,
+742,Virginia Tech,749,Wake Forest,11/22/2014,
+528,Oregon St.,756,Washington,11/22/2014,
+706,UTSA,772,Western Ky.,11/22/2014,
+774,Western Mich.,129,Central Mich.,11/22/2014,@
+796,Wisconsin,312,Iowa,11/22/2014,@
+414,Miami (OH),519,Ohio,11/25/2014,@
+519,Ohio,414,Miami (OH),11/25/2014,@
+697,Texas A&M,365,LSU,11/27/2014,@
+703,Texas,698,TCU,11/27/2014,@
+365,LSU,697,Texas A&M,11/27/2014,@
+698,TCU,703,Texas,11/27/2014,@
+71,Bowling Green,47,Ball St.,11/28/2014,@
+400,Massachusetts,86,Buffalo,11/28/2014,@
+651,South Fla.,128,UCF,11/28/2014,@
+719,Tulsa,196,East Carolina,11/28/2014,@
+663,SMU,288,Houston,11/28/2014,@
+331,Kent St.,5,Akron,11/28/2014,
+434,Missouri,31,Arkansas,11/28/2014,
+646,South Ala.,726,Navy,11/28/2014,@
+312,Iowa,463,Nebraska,11/28/2014,@
+774,Western Mich.,503,Northern Ill.,11/28/2014,@
+110,UCLA,674,Stanford,11/28/2014,@
+204,Eastern Mich.,709,Toledo,11/28/2014,@
+742,Virginia Tech,746,Virginia,11/28/2014,
+388,Marshall,772,Western Ky.,11/28/2014,@
+721,Air Force,156,Colorado St.,11/28/2014,
+29,Arizona,28,Arizona St.,11/28/2014,
+156,Colorado St.,721,Air Force,11/28/2014,
+28,Arizona St.,29,Arizona,11/28/2014,
+47,Ball St.,71,Bowling Green,11/28/2014,@
+86,Buffalo,400,Massachusetts,11/28/2014,@
+128,UCF,651,South Fla.,11/28/2014,@
+196,East Carolina,719,Tulsa,11/28/2014,@
+288,Houston,663,SMU,11/28/2014,@
+5,Akron,331,Kent St.,11/28/2014,
+31,Arkansas,434,Missouri,11/28/2014,
+726,Navy,646,South Ala.,11/28/2014,@
+463,Nebraska,312,Iowa,11/28/2014,@
+503,Northern Ill.,774,Western Mich.,11/28/2014,@
+674,Stanford,110,UCLA,11/28/2014,@
+709,Toledo,204,Eastern Mich.,11/28/2014,@
+746,Virginia,742,Virginia Tech,11/28/2014,
+772,Western Ky.,388,Marshall,11/28/2014,@
+8,Alabama,37,Auburn,11/29/2014,
+664,Southern Miss.,-99,Alabama-Birmingham,11/29/2014,@
+27,Appalachian St.,295,Idaho,11/29/2014,
+30,Arkansas St.,472,New Mexico St.,11/29/2014,
+51,Baylor,700,Texas Tech,11/29/2014,
+67,Boston College,688,Syracuse,11/29/2014,
+107,California,77,BYU,11/29/2014,@
+690,Temple,140,Cincinnati,11/29/2014,@
+147,Clemson,648,South Carolina,11/29/2014,
+193,Duke,749,Wake Forest,11/29/2014,
+234,Florida St.,235,Florida,11/29/2014,
+96,Fresno St.,277,Hawaii,11/29/2014,
+253,Ga. Southern,498,La.-Monroe,11/29/2014,
+257,Georgia,255,Georgia Tech,11/29/2014,@
+509,Northwestern,301,Illinois,11/29/2014,@
+306,Indiana,559,Purdue,11/29/2014,
+327,Kansas St.,328,Kansas,11/29/2014,
+366,Louisiana Tech,574,Rice,11/29/2014,
+716,Troy,671,UL Lafayette,11/29/2014,@
+367,Louisville,334,Kentucky,11/29/2014,
+404,Memphis,164,UConn,11/29/2014,
+539,Penn St.,416,Michigan St.,11/29/2014,@
+433,Ole Miss,430,Mississippi St.,11/29/2014,
+465,UNLV,466,Nevada,11/29/2014,@
+457,North Carolina,490,North Carolina St.,11/29/2014,@
+518,Ohio St.,418,Michigan,11/29/2014,
+229,Fla. Atlantic,523,Old Dominion,11/29/2014,@
+528,Oregon St.,529,Oregon,11/29/2014,@
+415,Miami (FL),545,Pittsburgh,11/29/2014,@
+392,Maryland,587,Rutgers,11/29/2014,@
+626,San Diego St.,630,San Jose St.,11/29/2014,
+657,Southern California,513,Notre Dame,11/29/2014,
+736,Vanderbilt,694,Tennessee,11/29/2014,@
+254,Georgia St.,670,Texas St.,11/29/2014,@
+704,UTEP,419,Middle Tenn.,11/29/2014,
+706,UTSA,497,North Texas,11/29/2014,
+157,Colorado,732,Utah,11/29/2014,@
+754,Washington St.,756,Washington,11/29/2014,@
+311,Iowa St.,768,West Virginia,11/29/2014,@
+796,Wisconsin,428,Minnesota,11/29/2014,
+66,Boise St.,731,Utah St.,11/29/2014,
+473,New Mexico,811,Wyoming,11/29/2014,
+37,Auburn,8,Alabama,11/29/2014,
+-99,Alabama-Birmingham,664,Southern Miss.,11/29/2014,@
+295,Idaho,27,Appalachian St.,11/29/2014,
+472,New Mexico St.,30,Arkansas St.,11/29/2014,
+700,Texas Tech,51,Baylor,11/29/2014,
+731,Utah St.,66,Boise St.,11/29/2014,
+688,Syracuse,67,Boston College,11/29/2014,
+77,BYU,107,California,11/29/2014,@
+140,Cincinnati,690,Temple,11/29/2014,@
+648,South Carolina,147,Clemson,11/29/2014,
+749,Wake Forest,193,Duke,11/29/2014,
+235,Florida,234,Florida St.,11/29/2014,
+277,Hawaii,96,Fresno St.,11/29/2014,
+498,La.-Monroe,253,Ga. Southern,11/29/2014,
+255,Georgia Tech,257,Georgia,11/29/2014,@
+301,Illinois,509,Northwestern,11/29/2014,@
+559,Purdue,306,Indiana,11/29/2014,
+328,Kansas,327,Kansas St.,11/29/2014,
+574,Rice,366,Louisiana Tech,11/29/2014,
+671,UL Lafayette,716,Troy,11/29/2014,@
+334,Kentucky,367,Louisville,11/29/2014,
+164,UConn,404,Memphis,11/29/2014,
+416,Michigan St.,539,Penn St.,11/29/2014,@
+430,Mississippi St.,433,Ole Miss,11/29/2014,
+466,Nevada,465,UNLV,11/29/2014,@
+811,Wyoming,473,New Mexico,11/29/2014,
+490,North Carolina St.,457,North Carolina,11/29/2014,@
+418,Michigan,518,Ohio St.,11/29/2014,
+523,Old Dominion,229,Fla. Atlantic,11/29/2014,@
+529,Oregon,528,Oregon St.,11/29/2014,@
+545,Pittsburgh,415,Miami (FL),11/29/2014,@
+587,Rutgers,392,Maryland,11/29/2014,@
+630,San Jose St.,626,San Diego St.,11/29/2014,
+513,Notre Dame,657,Southern California,11/29/2014,
+694,Tennessee,736,Vanderbilt,11/29/2014,@
+670,Texas St.,254,Georgia St.,11/29/2014,@
+419,Middle Tenn.,704,UTEP,11/29/2014,
+497,North Texas,706,UTSA,11/29/2014,
+732,Utah,157,Colorado,11/29/2014,@
+756,Washington,754,Washington St.,11/29/2014,@
+768,West Virginia,311,Iowa St.,11/29/2014,@
+428,Minnesota,796,Wisconsin,11/29/2014,
+196,East Carolina,128,UCF,12/4/2014,@
+128,UCF,196,East Carolina,12/4/2014,@
+8,Alabama,434,Missouri,12/6/2014,
+51,Baylor,327,Kansas St.,12/6/2014,
+140,Cincinnati,288,Houston,12/6/2014,
+234,Florida St.,255,Georgia Tech,12/6/2014,
+388,Marshall,366,Louisiana Tech,12/6/2014,
+518,Ohio St.,796,Wisconsin,12/6/2014,
+522,Oklahoma,521,Oklahoma St.,12/6/2014,@
+164,UConn,663,SMU,12/6/2014,@
+718,Tulane,690,Temple,12/6/2014,@
+698,TCU,311,Iowa St.,12/6/2014,
+66,Boise St.,96,Fresno St.,12/6/2014,
+434,Missouri,8,Alabama,12/6/2014,
+327,Kansas St.,51,Baylor,12/6/2014,
+96,Fresno St.,66,Boise St.,12/6/2014,
+288,Houston,140,Cincinnati,12/6/2014,
+255,Georgia Tech,234,Florida St.,12/6/2014,
+366,Louisiana Tech,388,Marshall,12/6/2014,
+796,Wisconsin,518,Ohio St.,12/6/2014,
+521,Oklahoma St.,522,Oklahoma,12/6/2014,@
+663,SMU,164,UConn,12/6/2014,@
+690,Temple,718,Tulane,12/6/2014,@
+311,Iowa St.,698,TCU,12/6/2014,
+726,Navy,725,Army West Point,12/13/2014,
+725,Army West Point,726,Navy,12/13/2014,
+157,Colorado,156,Colorado St.,8/29/2014,
+156,Colorado St.,157,Colorado,8/29/2014,
+473,New Mexico,704,UTEP,8/30/2014,
+704,UTEP,473,New Mexico,8/30/2014,
+694,Tennessee,731,Utah St.,8/31/2014,
+731,Utah St.,694,Tennessee,8/31/2014,
+96,Fresno St.,657,Southern California,8/30/2014,
+657,Southern California,96,Fresno St.,8/30/2014,
+756,Washington,277,Hawaii,8/30/2014,
+277,Hawaii,756,Washington,8/30/2014,
+433,Ole Miss,66,Boise St.,8/28/2014,
+66,Boise St.,433,Ole Miss,8/28/2014,
+107,California,509,Northwestern,8/30/2014,
+509,Northwestern,107,California,8/30/2014,
+754,Washington St.,587,Rutgers,8/28/2014,
+587,Rutgers,754,Washington St.,8/28/2014,
