@@ -7,7 +7,11 @@ Kahvecioglu G. and Morton D.
 
 Contents of directory: 
 - conference_labels.csv: FBS teams and their associated conferences/subconferences 
-- FBS_schedules.csv: 
+- FBS team schedules: headers --> [team ID, team name, opponent ID, opponent name, date, location]
+  - fbs2014.csv: 2014 schedule 
+  - fbs2015.csv: 2015 schedule 
+  - fbs2016.csv: 2016 schedule 
+  - fbs2017.csv : 2017 schedule 
 
 Some notes about the data: 
 * The FBS data only contains the regular-season games
