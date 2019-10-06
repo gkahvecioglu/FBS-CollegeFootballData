@@ -10,10 +10,10 @@ Contents of directory:
 - FBS_schedules.csv: 
 
 Some notes about the data: 
-** The FBS data only contains the regular-season games
-** We do not include the independent teams
-** We do not include the teams that did not play all four seasons
-** Thus, in total we look at 122 teams
-** Contains schedules played within the FBS network
+* The FBS data only contains the regular-season games
+* We do not include the independent teams
+* We do not include the teams that did not play all four seasons
+* Thus, in total we look at 122 teams
+* Contains schedules played within the FBS network
 
 
